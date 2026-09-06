@@ -1,17 +1,23 @@
 {
   "id": "prod-0030",
   "codigo": "KORVIL-0030-PRO",
-  "nome_completo": "Hipercalórico Mass Sache 30g Chocolate Hidrolisado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Sache 30g",
+  "nome_completo": "KORVIL-0030-PRO | E-book Treino Produto KORVIL P G | E-book Treino | Hidrolisado",
+  "nome": "E-book Treino Produto KORVIL P G",
+  "marca": "E-book Treino",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "P",
+  "embalagem": "G",
   "variante": "Hidrolisado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "Hipercalórico Mass Sache 30g Chocolate Hidrolisado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0030-PRO. Alta qualidade, entrega rápida.",
-  "preco": 184.9,
-  "preco_formatado": "R$ 184,90",
+  "preco": 80.9,
+  "estoque": 40,
+  "descricao": "Produto oficial KORVIL KORVIL-0030-PRO. E-book Treino Hidrolisado com sabor P, embalagem G. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/E-book Treino/Produto KORVIL/G/P/Hidrolisado/KORVIL-0030-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0030-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0030-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0030-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/E-book Treino/Produto KORVIL/G/P/Hidrolisado"
 }

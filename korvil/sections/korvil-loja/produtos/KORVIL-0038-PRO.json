@@ -1,17 +1,23 @@
 {
   "id": "prod-0038",
   "codigo": "KORVIL-0038-PRO",
-  "nome_completo": "Hipercalórico Mass Sache 30g Neutro Hidrolisado",
-  "marca": "MAX TITANIUM",
-  "sabor": "Neutro",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM",
-  "descricao_oficial": "Hipercalórico Mass Sache 30g Neutro Hidrolisado da marca MAX TITANIUM. Produto oficial KORVIL Loja - K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM. Código KORVIL-0038-PRO. Alta qualidade, entrega rápida.",
-  "preco": 212.9,
-  "preco_formatado": "R$ 212,90",
+  "nome_completo": "KORVIL-0038-PRO | DR. PEANUTS Produto KORVIL 128GB Unidade | DR. PEANUTS | Isolado",
+  "nome": "DR. PEANUTS Produto KORVIL 128GB Unidade",
+  "marca": "DR. PEANUTS",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "128GB",
+  "embalagem": "Unidade",
+  "variante": "Isolado",
+  "preco": 94.5,
+  "estoque": 48,
+  "descricao": "Produto oficial KORVIL KORVIL-0038-PRO. DR. PEANUTS Isolado com sabor 128GB, embalagem Unidade. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/DR. PEANUTS/Produto KORVIL/Unidade/128GB/Isolado/KORVIL-0038-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0038-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0038-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0038-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/DR. PEANUTS/Produto KORVIL/Unidade/128GB/Isolado"
 }

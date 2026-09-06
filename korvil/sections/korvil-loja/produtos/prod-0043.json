@@ -1,17 +1,23 @@
 {
   "id": "prod-0043",
   "codigo": "KORVIL-0043-PRO",
-  "nome_completo": "Glutamina Power Caixa 60 caps Neutro Creme",
-  "marca": "MAX TITANIUM",
-  "sabor": "Neutro",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM",
-  "descricao_oficial": "Glutamina Power Caixa 60 caps Neutro Creme da marca MAX TITANIUM. Produto oficial KORVIL Loja - K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM. Código KORVIL-0043-PRO. Alta qualidade, entrega rápida.",
-  "preco": 230.4,
-  "preco_formatado": "R$ 230,40",
+  "nome_completo": "KORVIL-0043-PRO | Camiseta Dry Fit Camiseta Performance Baunilha Tela 6.1\" | Camiseta Dry Fit | Dry Fit",
+  "nome": "Camiseta Dry Fit Camiseta Performance Baunilha Tela 6.1\"",
+  "marca": "Camiseta Dry Fit",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Camiseta Performance",
+  "sabor": "Baunilha",
+  "embalagem": "Tela 6.1\"",
+  "variante": "Dry Fit",
+  "preco": 103,
+  "estoque": 53,
+  "descricao": "Produto oficial KORVIL KORVIL-0043-PRO. Camiseta Dry Fit Dry Fit com sabor Baunilha, embalagem Tela 6.1\". Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Vestuário/Camiseta Dry Fit/Camiseta Performance/Tela 6.1\"/Baunilha/Dry Fit/KORVIL-0043-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0043-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0043-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0043-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Vestuário/Camiseta Dry Fit/Camiseta Performance/Tela 6.1\"/Baunilha/Dry Fit"
 }

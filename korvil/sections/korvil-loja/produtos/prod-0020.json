@@ -1,17 +1,23 @@
 {
   "id": "prod-0020",
   "codigo": "KORVIL-0020-PRO",
-  "nome_completo": "Pré-Treino Insano Pote 900g Chocolate Concentrado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "Pré-Treino Insano Pote 900g Chocolate Concentrado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0020-PRO. Alta qualidade, entrega rápida.",
-  "preco": 149.9,
-  "preco_formatado": "R$ 149,90",
+  "nome_completo": "KORVIL-0020-PRO | Moletom Aberto Produto KORVIL Vídeo-aula GG | Moletom Aberto | Isolado",
+  "nome": "Moletom Aberto Produto KORVIL Vídeo-aula GG",
+  "marca": "Moletom Aberto",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Vídeo-aula",
+  "embalagem": "GG",
+  "variante": "Isolado",
+  "preco": 63.9,
+  "estoque": 30,
+  "descricao": "Produto oficial KORVIL KORVIL-0020-PRO. Moletom Aberto Isolado com sabor Vídeo-aula, embalagem GG. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/Moletom Aberto/Produto KORVIL/GG/Vídeo-aula/Isolado/KORVIL-0020-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0020-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0020-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0020-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/Moletom Aberto/Produto KORVIL/GG/Vídeo-aula/Isolado"
 }

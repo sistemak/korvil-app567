@@ -1,17 +1,23 @@
 {
   "id": "prod-0007",
   "codigo": "KORVIL-0007-PRO",
-  "nome_completo": "Termogênico Black Caixa 60 caps Baunilha Creme",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "Termogênico Black Caixa 60 caps Baunilha Creme da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0007-PRO. Alta qualidade, entrega rápida.",
-  "preco": 104.4,
-  "preco_formatado": "R$ 104,40",
+  "nome_completo": "KORVIL-0007-PRO | BLACK SKULL Produto KORVIL Branco M | BLACK SKULL | Dry Fit",
+  "nome": "BLACK SKULL Produto KORVIL Branco M",
+  "marca": "BLACK SKULL",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Branco",
+  "embalagem": "M",
+  "variante": "Dry Fit",
+  "preco": 41.8,
+  "estoque": 17,
+  "descricao": "Produto oficial KORVIL KORVIL-0007-PRO. BLACK SKULL Dry Fit com sabor Branco, embalagem M. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/BLACK SKULL/Produto KORVIL/M/Branco/Dry Fit/KORVIL-0007-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0007-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0007-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0007-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/BLACK SKULL/Produto KORVIL/M/Branco/Dry Fit"
 }

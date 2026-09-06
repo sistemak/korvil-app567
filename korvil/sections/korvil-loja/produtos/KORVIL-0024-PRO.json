@@ -1,17 +1,23 @@
 {
   "id": "prod-0024",
   "codigo": "KORVIL-0024-PRO",
-  "nome_completo": "Whey Protein Profit Pote 900g Cookies Concentrado",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "Whey Protein Profit Pote 900g Cookies Concentrado da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0024-PRO. Alta qualidade, entrega rápida.",
-  "preco": 163.9,
-  "preco_formatado": "R$ 163,90",
+  "nome_completo": "KORVIL-0024-PRO | Tela Samsung Tela Compatível Natural Saco 1kg | Tela Samsung | Pro",
+  "nome": "Tela Samsung Tela Compatível Natural Saco 1kg",
+  "marca": "Tela Samsung",
+  "setor": "K-TP Loja",
+  "categoria": "Manutenção de Celular",
+  "produto_cor": "Tela Compatível",
+  "sabor": "Natural",
+  "embalagem": "Saco 1kg",
+  "variante": "Pro",
+  "preco": 70.7,
+  "estoque": 34,
+  "descricao": "Produto oficial KORVIL KORVIL-0024-PRO. Tela Samsung Pro com sabor Natural, embalagem Saco 1kg. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Manutenção de Celular/Tela Samsung/Tela Compatível/Saco 1kg/Natural/Pro/KORVIL-0024-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0024-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0024-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0024-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Manutenção de Celular/Tela Samsung/Tela Compatível/Saco 1kg/Natural/Pro"
 }

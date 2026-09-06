@@ -1,17 +1,23 @@
 {
   "id": "prod-0033",
   "codigo": "KORVIL-0033-PRO",
-  "nome_completo": "Creatina Monohidratada Pote 500g Neutro Isolado",
-  "marca": "MAX TITANIUM",
-  "sabor": "Neutro",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM",
-  "descricao_oficial": "Creatina Monohidratada Pote 500g Neutro Isolado da marca MAX TITANIUM. Produto oficial KORVIL Loja - K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM. Código KORVIL-0033-PRO. Alta qualidade, entrega rápida.",
-  "preco": 195.4,
-  "preco_formatado": "R$ 195,40",
+  "nome_completo": "KORVIL-0033-PRO | PROFIT Produto KORVIL GG Bateria 4000mAh | PROFIT | Pro",
+  "nome": "PROFIT Produto KORVIL GG Bateria 4000mAh",
+  "marca": "PROFIT",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "GG",
+  "embalagem": "Bateria 4000mAh",
+  "variante": "Pro",
+  "preco": 86,
+  "estoque": 43,
+  "descricao": "Produto oficial KORVIL KORVIL-0033-PRO. PROFIT Pro com sabor GG, embalagem Bateria 4000mAh. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/PROFIT/Produto KORVIL/Bateria 4000mAh/GG/Pro/KORVIL-0033-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0033-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0033-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0033-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/PROFIT/Produto KORVIL/Bateria 4000mAh/GG/Pro"
 }

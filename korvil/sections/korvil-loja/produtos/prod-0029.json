@@ -1,17 +1,23 @@
 {
   "id": "prod-0029",
   "codigo": "KORVIL-0029-PRO",
-  "nome_completo": "Whey Isolado Pote 500g Cookies Isolado",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Pote 500g",
+  "nome_completo": "KORVIL-0029-PRO | E-book Finanças Produto KORVIL Vermelho M | E-book Finanças | Isolado",
+  "nome": "E-book Finanças Produto KORVIL Vermelho M",
+  "marca": "E-book Finanças",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Vermelho",
+  "embalagem": "M",
   "variante": "Isolado",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "Whey Isolado Pote 500g Cookies Isolado da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0029-PRO. Alta qualidade, entrega rápida.",
-  "preco": 181.4,
-  "preco_formatado": "R$ 181,40",
+  "preco": 79.2,
+  "estoque": 39,
+  "descricao": "Produto oficial KORVIL KORVIL-0029-PRO. E-book Finanças Isolado com sabor Vermelho, embalagem M. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/E-book Finanças/Produto KORVIL/M/Vermelho/Isolado/KORVIL-0029-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0029-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0029-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0029-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/E-book Finanças/Produto KORVIL/M/Vermelho/Isolado"
 }

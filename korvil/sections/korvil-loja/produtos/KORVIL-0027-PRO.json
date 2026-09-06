@@ -1,17 +1,23 @@
 {
   "id": "prod-0027",
   "codigo": "KORVIL-0027-PRO",
-  "nome_completo": "Glutamina Power Caixa 60 caps Baunilha Creme",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "Glutamina Power Caixa 60 caps Baunilha Creme da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0027-PRO. Alta qualidade, entrega rápida.",
-  "preco": 174.4,
-  "preco_formatado": "R$ 174,40",
+  "nome_completo": "KORVIL-0027-PRO | Capinha Produto KORVIL Branco Unidade | Capinha | Oversized",
+  "nome": "Capinha Produto KORVIL Branco Unidade",
+  "marca": "Capinha",
+  "setor": "K-TP Loja",
+  "categoria": "Manutenção de Celular",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Branco",
+  "embalagem": "Unidade",
+  "variante": "Oversized",
+  "preco": 75.8,
+  "estoque": 37,
+  "descricao": "Produto oficial KORVIL KORVIL-0027-PRO. Capinha Oversized com sabor Branco, embalagem Unidade. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Manutenção de Celular/Capinha/Produto KORVIL/Unidade/Branco/Oversized/KORVIL-0027-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0027-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0027-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0027-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Manutenção de Celular/Capinha/Produto KORVIL/Unidade/Branco/Oversized"
 }

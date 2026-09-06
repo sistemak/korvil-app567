@@ -1,17 +1,23 @@
 {
   "id": "prod-0016",
   "codigo": "KORVIL-0016-PRO",
-  "nome_completo": "Whey Protein Profit Pote 900g Morango Concentrado",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Whey Protein Profit Pote 900g Morango Concentrado da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0016-PRO. Alta qualidade, entrega rápida.",
-  "preco": 135.9,
-  "preco_formatado": "R$ 135,90",
+  "nome_completo": "KORVIL-0016-PRO | Calça Legging Produto KORVIL 15ml Unidade | Calça Legging | Dry Fit",
+  "nome": "Calça Legging Produto KORVIL 15ml Unidade",
+  "marca": "Calça Legging",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "15ml",
+  "embalagem": "Unidade",
+  "variante": "Dry Fit",
+  "preco": 57.1,
+  "estoque": 26,
+  "descricao": "Produto oficial KORVIL KORVIL-0016-PRO. Calça Legging Dry Fit com sabor 15ml, embalagem Unidade. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Vestuário/Calça Legging/Produto KORVIL/Unidade/15ml/Dry Fit/KORVIL-0016-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0016-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0016-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0016-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Vestuário/Calça Legging/Produto KORVIL/Unidade/15ml/Dry Fit"
 }

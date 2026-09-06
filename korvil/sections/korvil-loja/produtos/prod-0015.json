@@ -1,17 +1,23 @@
 {
   "id": "prod-0015",
   "codigo": "KORVIL-0015-PRO",
-  "nome_completo": "Termogênico Black Caixa 60 caps Chocolate Creme",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "Termogênico Black Caixa 60 caps Chocolate Creme da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0015-PRO. Alta qualidade, entrega rápida.",
-  "preco": 132.4,
-  "preco_formatado": "R$ 132,40",
+  "nome_completo": "KORVIL-0015-PRO | Regata Dry Produto KORVIL 1kg Caixa 30 caps | Regata Dry | Pro",
+  "nome": "Regata Dry Produto KORVIL 1kg Caixa 30 caps",
+  "marca": "Regata Dry",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "1kg",
+  "embalagem": "Caixa 30 caps",
+  "variante": "Pro",
+  "preco": 55.4,
+  "estoque": 25,
+  "descricao": "Produto oficial KORVIL KORVIL-0015-PRO. Regata Dry Pro com sabor 1kg, embalagem Caixa 30 caps. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/Regata Dry/Produto KORVIL/Caixa 30 caps/1kg/Pro/KORVIL-0015-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0015-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0015-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0015-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/Regata Dry/Produto KORVIL/Caixa 30 caps/1kg/Pro"
 }

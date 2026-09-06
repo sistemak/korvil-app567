@@ -1,17 +1,23 @@
 {
   "id": "prod-0010",
   "codigo": "KORVIL-0010-PRO",
-  "nome_completo": "BCAA 2:1:1 Sache 30g Chocolate Hidrolisado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "BCAA 2:1:1 Sache 30g Chocolate Hidrolisado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0010-PRO. Alta qualidade, entrega rápida.",
-  "preco": 114.9,
-  "preco_formatado": "R$ 114,90",
+  "nome_completo": "KORVIL-0010-PRO | VULCANO Produto KORVIL P Tela 6.1\" | VULCANO | Concentrado",
+  "nome": "VULCANO Produto KORVIL P Tela 6.1\"",
+  "marca": "VULCANO",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "P",
+  "embalagem": "Tela 6.1\"",
+  "variante": "Concentrado",
+  "preco": 46.9,
+  "estoque": 20,
+  "descricao": "Produto oficial KORVIL KORVIL-0010-PRO. VULCANO Concentrado com sabor P, embalagem Tela 6.1\". Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/VULCANO/Produto KORVIL/Tela 6.1\"/P/Concentrado/KORVIL-0010-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0010-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0010-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0010-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/VULCANO/Produto KORVIL/Tela 6.1\"/P/Concentrado"
 }

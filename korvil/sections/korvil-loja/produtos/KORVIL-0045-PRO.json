@@ -1,17 +1,23 @@
 {
   "id": "prod-0045",
   "codigo": "KORVIL-0045-PRO",
-  "nome_completo": "Whey Isolado Pote 500g Chocolate Isolado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "Whey Isolado Pote 500g Chocolate Isolado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0045-PRO. Alta qualidade, entrega rápida.",
-  "preco": 237.4,
-  "preco_formatado": "R$ 237,40",
+  "nome_completo": "KORVIL-0045-PRO | Camiseta Oversized Camiseta Performance Cookies Pote 900g | Camiseta Oversized | Oversized",
+  "nome": "Camiseta Oversized Camiseta Performance Cookies Pote 900g",
+  "marca": "Camiseta Oversized",
+  "setor": "K-TP Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Camiseta Performance",
+  "sabor": "Cookies",
+  "embalagem": "Pote 900g",
+  "variante": "Oversized",
+  "preco": 106.4,
+  "estoque": 55,
+  "descricao": "Produto oficial KORVIL KORVIL-0045-PRO. Camiseta Oversized Oversized com sabor Cookies, embalagem Pote 900g. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Camiseta Oversized/Camiseta Performance/Pote 900g/Cookies/Oversized/KORVIL-0045-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0045-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0045-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0045-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Vestuário/Camiseta Oversized/Camiseta Performance/Pote 900g/Cookies/Oversized"
 }

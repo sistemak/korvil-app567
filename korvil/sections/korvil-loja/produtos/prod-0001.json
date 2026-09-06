@@ -1,17 +1,23 @@
 {
   "id": "prod-0001",
   "codigo": "KORVIL-0001-PRO",
-  "nome_completo": "Creatina Monohidratada Pote 500g Morango Isolado",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Creatina Monohidratada Pote 500g Morango Isolado da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0001-PRO. Alta qualidade, entrega rápida.",
-  "preco": 83.4,
-  "preco_formatado": "R$ 83,40",
+  "nome_completo": "KORVIL-0001-PRO | PROFIT Produto KORVIL Chocolate Pote 900g | PROFIT | Concentrado",
+  "nome": "PROFIT Produto KORVIL Chocolate Pote 900g",
+  "marca": "PROFIT",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Chocolate",
+  "embalagem": "Pote 900g",
+  "variante": "Concentrado",
+  "preco": 31.6,
+  "estoque": 11,
+  "descricao": "Produto oficial KORVIL KORVIL-0001-PRO. PROFIT Concentrado com sabor Chocolate, embalagem Pote 900g. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/PROFIT/Produto KORVIL/Pote 900g/Chocolate/Concentrado/KORVIL-0001-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0001-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0001-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.865Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0001-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/PROFIT/Produto KORVIL/Pote 900g/Chocolate/Concentrado"
 }

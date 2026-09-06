@@ -1,17 +1,23 @@
 {
   "id": "prod-0041",
   "codigo": "KORVIL-0041-PRO",
-  "nome_completo": "Creatina Monohidratada Pote 500g Morango Isolado",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Creatina Monohidratada Pote 500g Morango Isolado da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0041-PRO. Alta qualidade, entrega rápida.",
-  "preco": 223.4,
-  "preco_formatado": "R$ 223,40",
+  "nome_completo": "KORVIL-0041-PRO | NEW MILLEN Produto KORVIL Chocolate G | NEW MILLEN | Premium",
+  "nome": "NEW MILLEN Produto KORVIL Chocolate G",
+  "marca": "NEW MILLEN",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Chocolate",
+  "embalagem": "G",
+  "variante": "Premium",
+  "preco": 99.6,
+  "estoque": 51,
+  "descricao": "Produto oficial KORVIL KORVIL-0041-PRO. NEW MILLEN Premium com sabor Chocolate, embalagem G. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/NEW MILLEN/Produto KORVIL/G/Chocolate/Premium/KORVIL-0041-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0041-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0041-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0041-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/NEW MILLEN/Produto KORVIL/G/Chocolate/Premium"
 }

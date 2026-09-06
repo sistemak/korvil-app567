@@ -1,17 +1,23 @@
 {
   "id": "prod-0042",
   "codigo": "KORVIL-0042-PRO",
-  "nome_completo": "BCAA 2:1:1 Sache 30g Baunilha Hidrolisado",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "BCAA 2:1:1 Sache 30g Baunilha Hidrolisado da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0042-PRO. Alta qualidade, entrega rápida.",
-  "preco": 226.9,
-  "preco_formatado": "R$ 226,90",
+  "nome_completo": "KORVIL-0042-PRO | VULCANO Produto KORVIL Morango GG | VULCANO | Pro",
+  "nome": "VULCANO Produto KORVIL Morango GG",
+  "marca": "VULCANO",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Morango",
+  "embalagem": "GG",
+  "variante": "Pro",
+  "preco": 101.3,
+  "estoque": 52,
+  "descricao": "Produto oficial KORVIL KORVIL-0042-PRO. VULCANO Pro com sabor Morango, embalagem GG. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/VULCANO/Produto KORVIL/GG/Morango/Pro/KORVIL-0042-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0042-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0042-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0042-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/VULCANO/Produto KORVIL/GG/Morango/Pro"
 }

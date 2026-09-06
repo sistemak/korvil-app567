@@ -1,17 +1,23 @@
 {
   "id": "prod-0009",
   "codigo": "KORVIL-0009-PRO",
-  "nome_completo": "Creatina Monohidratada Pote 500g Cookies Isolado",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "Creatina Monohidratada Pote 500g Cookies Isolado da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0009-PRO. Alta qualidade, entrega rápida.",
-  "preco": 111.4,
-  "preco_formatado": "R$ 111,40",
+  "nome_completo": "KORVIL-0009-PRO | NEW MILLEN Produto KORVIL Vermelho GG | NEW MILLEN | Oversized",
+  "nome": "NEW MILLEN Produto KORVIL Vermelho GG",
+  "marca": "NEW MILLEN",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Vermelho",
+  "embalagem": "GG",
+  "variante": "Oversized",
+  "preco": 45.2,
+  "estoque": 19,
+  "descricao": "Produto oficial KORVIL KORVIL-0009-PRO. NEW MILLEN Oversized com sabor Vermelho, embalagem GG. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/NEW MILLEN/Produto KORVIL/GG/Vermelho/Oversized/KORVIL-0009-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0009-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0009-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0009-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/NEW MILLEN/Produto KORVIL/GG/Vermelho/Oversized"
 }

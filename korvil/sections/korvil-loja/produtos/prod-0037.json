@@ -1,17 +1,23 @@
 {
   "id": "prod-0037",
   "codigo": "KORVIL-0037-PRO",
-  "nome_completo": "Whey Isolado Pote 500g Baunilha Isolado",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "Whey Isolado Pote 500g Baunilha Isolado da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0037-PRO. Alta qualidade, entrega rápida.",
-  "preco": 209.4,
-  "preco_formatado": "R$ 209,40",
+  "nome_completo": "KORVIL-0037-PRO | INTEGRALMÉDICA Produto KORVIL 64GB Caixa 30 caps | INTEGRALMÉDICA | Concentrado",
+  "nome": "INTEGRALMÉDICA Produto KORVIL 64GB Caixa 30 caps",
+  "marca": "INTEGRALMÉDICA",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "64GB",
+  "embalagem": "Caixa 30 caps",
+  "variante": "Concentrado",
+  "preco": 92.8,
+  "estoque": 47,
+  "descricao": "Produto oficial KORVIL KORVIL-0037-PRO. INTEGRALMÉDICA Concentrado com sabor 64GB, embalagem Caixa 30 caps. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/INTEGRALMÉDICA/Produto KORVIL/Caixa 30 caps/64GB/Concentrado/KORVIL-0037-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0037-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0037-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0037-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/INTEGRALMÉDICA/Produto KORVIL/Caixa 30 caps/64GB/Concentrado"
 }

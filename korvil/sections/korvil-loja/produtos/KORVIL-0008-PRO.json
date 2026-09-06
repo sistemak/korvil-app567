@@ -1,17 +1,23 @@
 {
   "id": "prod-0008",
   "codigo": "KORVIL-0008-PRO",
-  "nome_completo": "Whey Protein Profit Pote 900g Neutro Concentrado",
-  "marca": "MAX TITANIUM",
-  "sabor": "Neutro",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM",
-  "descricao_oficial": "Whey Protein Profit Pote 900g Neutro Concentrado da marca MAX TITANIUM. Produto oficial KORVIL Loja - K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM. Código KORVIL-0008-PRO. Alta qualidade, entrega rápida.",
-  "preco": 107.9,
-  "preco_formatado": "R$ 107,90",
+  "nome_completo": "KORVIL-0008-PRO | ADAPTOGEN Produto KORVIL Azul G | ADAPTOGEN | Algodão",
+  "nome": "ADAPTOGEN Produto KORVIL Azul G",
+  "marca": "ADAPTOGEN",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Azul",
+  "embalagem": "G",
+  "variante": "Algodão",
+  "preco": 43.5,
+  "estoque": 18,
+  "descricao": "Produto oficial KORVIL KORVIL-0008-PRO. ADAPTOGEN Algodão com sabor Azul, embalagem G. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/ADAPTOGEN/Produto KORVIL/G/Azul/Algodão/KORVIL-0008-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0008-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0008-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0008-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/ADAPTOGEN/Produto KORVIL/G/Azul/Algodão"
 }

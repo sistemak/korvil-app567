@@ -1,17 +1,23 @@
 {
   "id": "prod-0021",
   "codigo": "KORVIL-0021-PRO",
-  "nome_completo": "Whey Isolado Pote 500g Morango Isolado",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Whey Isolado Pote 500g Morango Isolado da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0021-PRO. Alta qualidade, entrega rápida.",
-  "preco": 153.4,
-  "preco_formatado": "R$ 153,40",
+  "nome_completo": "KORVIL-0021-PRO | Top Sutiã Produto KORVIL Chocolate Tela 6.1\" | Top Sutiã | Hidrolisado",
+  "nome": "Top Sutiã Produto KORVIL Chocolate Tela 6.1\"",
+  "marca": "Top Sutiã",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Chocolate",
+  "embalagem": "Tela 6.1\"",
+  "variante": "Hidrolisado",
+  "preco": 65.6,
+  "estoque": 31,
+  "descricao": "Produto oficial KORVIL KORVIL-0021-PRO. Top Sutiã Hidrolisado com sabor Chocolate, embalagem Tela 6.1\". Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/Top Sutiã/Produto KORVIL/Tela 6.1\"/Chocolate/Hidrolisado/KORVIL-0021-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0021-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0021-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0021-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/Top Sutiã/Produto KORVIL/Tela 6.1\"/Chocolate/Hidrolisado"
 }

@@ -1,17 +1,23 @@
 {
   "id": "prod-0017",
   "codigo": "KORVIL-0017-PRO",
-  "nome_completo": "Creatina Monohidratada Pote 500g Baunilha Isolado",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "Creatina Monohidratada Pote 500g Baunilha Isolado da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0017-PRO. Alta qualidade, entrega rápida.",
-  "preco": 139.4,
-  "preco_formatado": "R$ 139,40",
+  "nome_completo": "KORVIL-0017-PRO | Calça Moletom Produto KORVIL 64GB P | Calça Moletom | Algodão",
+  "nome": "Calça Moletom Produto KORVIL 64GB P",
+  "marca": "Calça Moletom",
+  "setor": "K-ALMA Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "64GB",
+  "embalagem": "P",
+  "variante": "Algodão",
+  "preco": 58.8,
+  "estoque": 27,
+  "descricao": "Produto oficial KORVIL KORVIL-0017-PRO. Calça Moletom Algodão com sabor 64GB, embalagem P. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Vestuário/Calça Moletom/Produto KORVIL/P/64GB/Algodão/KORVIL-0017-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0017-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0017-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0017-PRO/400/400",
+  "videos": [],
+  "disponivel": false,
+  "fullPath": "K-ALMA Loja/Fitness - Vestuário/Calça Moletom/Produto KORVIL/P/64GB/Algodão"
 }

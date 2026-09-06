@@ -1,17 +1,23 @@
 {
   "id": "prod-0011",
   "codigo": "KORVIL-0011-PRO",
-  "nome_completo": "Glutamina Power Caixa 60 caps Morango Creme",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Glutamina Power Caixa 60 caps Morango Creme da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0011-PRO. Alta qualidade, entrega rápida.",
-  "preco": 118.4,
-  "preco_formatado": "R$ 118,40",
+  "nome_completo": "KORVIL-0011-PRO | Camiseta Dry Fit Camiseta Performance M Bateria 4000mAh | Camiseta Dry Fit | Isolado",
+  "nome": "Camiseta Dry Fit Camiseta Performance M Bateria 4000mAh",
+  "marca": "Camiseta Dry Fit",
+  "setor": "K-ALMA Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Camiseta Performance",
+  "sabor": "M",
+  "embalagem": "Bateria 4000mAh",
+  "variante": "Isolado",
+  "preco": 48.6,
+  "estoque": 21,
+  "descricao": "Produto oficial KORVIL KORVIL-0011-PRO. Camiseta Dry Fit Isolado com sabor M, embalagem Bateria 4000mAh. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Vestuário/Camiseta Dry Fit/Camiseta Performance/Bateria 4000mAh/M/Isolado/KORVIL-0011-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0011-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0011-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0011-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Vestuário/Camiseta Dry Fit/Camiseta Performance/Bateria 4000mAh/M/Isolado"
 }

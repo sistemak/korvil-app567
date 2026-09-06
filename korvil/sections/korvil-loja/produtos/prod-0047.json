@@ -1,17 +1,23 @@
 {
   "id": "prod-0047",
   "codigo": "KORVIL-0047-PRO",
-  "nome_completo": "Termogênico Black Caixa 60 caps Baunilha Creme",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "Termogênico Black Caixa 60 caps Baunilha Creme da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0047-PRO. Alta qualidade, entrega rápida.",
-  "preco": 244.4,
-  "preco_formatado": "R$ 244,40",
+  "nome_completo": "KORVIL-0047-PRO | Regata Dry Produto KORVIL Branco Garrafa 500ml | Regata Dry | Isolado",
+  "nome": "Regata Dry Produto KORVIL Branco Garrafa 500ml",
+  "marca": "Regata Dry",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Branco",
+  "embalagem": "Garrafa 500ml",
+  "variante": "Isolado",
+  "preco": 109.8,
+  "estoque": 57,
+  "descricao": "Produto oficial KORVIL KORVIL-0047-PRO. Regata Dry Isolado com sabor Branco, embalagem Garrafa 500ml. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/Regata Dry/Produto KORVIL/Garrafa 500ml/Branco/Isolado/KORVIL-0047-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0047-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0047-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0047-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/Regata Dry/Produto KORVIL/Garrafa 500ml/Branco/Isolado"
 }

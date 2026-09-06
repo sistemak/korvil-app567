@@ -1,17 +1,23 @@
 {
   "id": "prod-0049",
   "codigo": "KORVIL-0049-PRO",
-  "nome_completo": "Creatina Monohidratada Pote 500g Cookies Isolado",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "Creatina Monohidratada Pote 500g Cookies Isolado da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0049-PRO. Alta qualidade, entrega rápida.",
-  "preco": 251.4,
-  "preco_formatado": "R$ 251,40",
+  "nome_completo": "KORVIL-0049-PRO | Calça Moletom Produto KORVIL Vermelho Unidade | Calça Moletom | Original",
+  "nome": "Calça Moletom Produto KORVIL Vermelho Unidade",
+  "marca": "Calça Moletom",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Vermelho",
+  "embalagem": "Unidade",
+  "variante": "Original",
+  "preco": 113.2,
+  "estoque": 59,
+  "descricao": "Produto oficial KORVIL KORVIL-0049-PRO. Calça Moletom Original com sabor Vermelho, embalagem Unidade. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Vestuário/Calça Moletom/Produto KORVIL/Unidade/Vermelho/Original/KORVIL-0049-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0049-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0049-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0049-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Vestuário/Calça Moletom/Produto KORVIL/Unidade/Vermelho/Original"
 }

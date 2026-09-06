@@ -1,17 +1,23 @@
 {
   "id": "prod-0044",
   "codigo": "KORVIL-0044-PRO",
-  "nome_completo": "Pré-Treino Insano Pote 900g Cookies Concentrado",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "Pré-Treino Insano Pote 900g Cookies Concentrado da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0044-PRO. Alta qualidade, entrega rápida.",
-  "preco": 233.9,
-  "preco_formatado": "R$ 233,90",
+  "nome_completo": "KORVIL-0044-PRO | Camiseta Algodão Camiseta Performance Natural Bateria 4000mAh | Camiseta Algodão | Algodão",
+  "nome": "Camiseta Algodão Camiseta Performance Natural Bateria 4000mAh",
+  "marca": "Camiseta Algodão",
+  "setor": "K-ALMA Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Camiseta Performance",
+  "sabor": "Natural",
+  "embalagem": "Bateria 4000mAh",
+  "variante": "Algodão",
+  "preco": 104.7,
+  "estoque": 54,
+  "descricao": "Produto oficial KORVIL KORVIL-0044-PRO. Camiseta Algodão Algodão com sabor Natural, embalagem Bateria 4000mAh. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Vestuário/Camiseta Algodão/Camiseta Performance/Bateria 4000mAh/Natural/Algodão/KORVIL-0044-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0044-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0044-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0044-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Vestuário/Camiseta Algodão/Camiseta Performance/Bateria 4000mAh/Natural/Algodão"
 }

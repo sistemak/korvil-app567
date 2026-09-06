@@ -1,17 +1,23 @@
 {
   "id": "prod-0028",
   "codigo": "KORVIL-0028-PRO",
-  "nome_completo": "Pré-Treino Insano Pote 900g Neutro Concentrado",
-  "marca": "MAX TITANIUM",
-  "sabor": "Neutro",
-  "embalagem": "Pote 900g",
+  "nome_completo": "KORVIL-0028-PRO | Película Produto KORVIL Azul P | Película | Concentrado",
+  "nome": "Película Produto KORVIL Azul P",
+  "marca": "Película",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Azul",
+  "embalagem": "P",
   "variante": "Concentrado",
-  "setor": "K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM",
-  "descricao_oficial": "Pré-Treino Insano Pote 900g Neutro Concentrado da marca MAX TITANIUM. Produto oficial KORVIL Loja - K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM. Código KORVIL-0028-PRO. Alta qualidade, entrega rápida.",
-  "preco": 177.9,
-  "preco_formatado": "R$ 177,90",
+  "preco": 77.5,
+  "estoque": 38,
+  "descricao": "Produto oficial KORVIL KORVIL-0028-PRO. Película Concentrado com sabor Azul, embalagem P. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/Película/Produto KORVIL/P/Azul/Concentrado/KORVIL-0028-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0028-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0028-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0028-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/Película/Produto KORVIL/P/Azul/Concentrado"
 }

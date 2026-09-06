@@ -1,17 +1,23 @@
 {
   "id": "prod-0019",
   "codigo": "KORVIL-0019-PRO",
-  "nome_completo": "Glutamina Power Caixa 60 caps Cookies Creme",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "Glutamina Power Caixa 60 caps Cookies Creme da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0019-PRO. Alta qualidade, entrega rápida.",
-  "preco": 146.4,
-  "preco_formatado": "R$ 146,40",
+  "nome_completo": "KORVIL-0019-PRO | Moletom Canguru Produto KORVIL PDF G | Moletom Canguru | Concentrado",
+  "nome": "Moletom Canguru Produto KORVIL PDF G",
+  "marca": "Moletom Canguru",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "PDF",
+  "embalagem": "G",
+  "variante": "Concentrado",
+  "preco": 62.2,
+  "estoque": 29,
+  "descricao": "Produto oficial KORVIL KORVIL-0019-PRO. Moletom Canguru Concentrado com sabor PDF, embalagem G. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/Moletom Canguru/Produto KORVIL/G/PDF/Concentrado/KORVIL-0019-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0019-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0019-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0019-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/Moletom Canguru/Produto KORVIL/G/PDF/Concentrado"
 }

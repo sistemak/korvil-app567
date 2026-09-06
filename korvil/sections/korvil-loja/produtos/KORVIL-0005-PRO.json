@@ -1,17 +1,23 @@
 {
   "id": "prod-0005",
   "codigo": "KORVIL-0005-PRO",
-  "nome_completo": "Whey Isolado Pote 500g Chocolate Isolado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "Whey Isolado Pote 500g Chocolate Isolado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0005-PRO. Alta qualidade, entrega rápida.",
-  "preco": 97.4,
-  "preco_formatado": "R$ 97,40",
+  "nome_completo": "KORVIL-0005-PRO | INTEGRALMÉDICA Produto KORVIL Cookies Unidade | INTEGRALMÉDICA | Premium",
+  "nome": "INTEGRALMÉDICA Produto KORVIL Cookies Unidade",
+  "marca": "INTEGRALMÉDICA",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Cookies",
+  "embalagem": "Unidade",
+  "variante": "Premium",
+  "preco": 38.4,
+  "estoque": 15,
+  "descricao": "Produto oficial KORVIL KORVIL-0005-PRO. INTEGRALMÉDICA Premium com sabor Cookies, embalagem Unidade. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/INTEGRALMÉDICA/Produto KORVIL/Unidade/Cookies/Premium/KORVIL-0005-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0005-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0005-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0005-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/INTEGRALMÉDICA/Produto KORVIL/Unidade/Cookies/Premium"
 }

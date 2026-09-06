@@ -1,17 +1,23 @@
 {
   "id": "prod-0046",
   "codigo": "KORVIL-0046-PRO",
-  "nome_completo": "Hipercalórico Mass Sache 30g Morango Hidrolisado",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Hipercalórico Mass Sache 30g Morango Hidrolisado da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0046-PRO. Alta qualidade, entrega rápida.",
-  "preco": 240.9,
-  "preco_formatado": "R$ 240,90",
+  "nome_completo": "KORVIL-0046-PRO | Baby Look Produto KORVIL Preto Saco 1kg | Baby Look | Concentrado",
+  "nome": "Baby Look Produto KORVIL Preto Saco 1kg",
+  "marca": "Baby Look",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Preto",
+  "embalagem": "Saco 1kg",
+  "variante": "Concentrado",
+  "preco": 108.1,
+  "estoque": 56,
+  "descricao": "Produto oficial KORVIL KORVIL-0046-PRO. Baby Look Concentrado com sabor Preto, embalagem Saco 1kg. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/Baby Look/Produto KORVIL/Saco 1kg/Preto/Concentrado/KORVIL-0046-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0046-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0046-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0046-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/Baby Look/Produto KORVIL/Saco 1kg/Preto/Concentrado"
 }

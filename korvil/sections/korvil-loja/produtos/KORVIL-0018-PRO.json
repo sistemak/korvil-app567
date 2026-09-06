@@ -1,17 +1,23 @@
 {
   "id": "prod-0018",
   "codigo": "KORVIL-0018-PRO",
-  "nome_completo": "BCAA 2:1:1 Sache 30g Neutro Hidrolisado",
-  "marca": "MAX TITANIUM",
-  "sabor": "Neutro",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM",
-  "descricao_oficial": "BCAA 2:1:1 Sache 30g Neutro Hidrolisado da marca MAX TITANIUM. Produto oficial KORVIL Loja - K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM. Código KORVIL-0018-PRO. Alta qualidade, entrega rápida.",
-  "preco": 142.9,
-  "preco_formatado": "R$ 142,90",
+  "nome_completo": "KORVIL-0018-PRO | Calça Jogger Produto KORVIL 128GB M | Calça Jogger | Oversized",
+  "nome": "Calça Jogger Produto KORVIL 128GB M",
+  "marca": "Calça Jogger",
+  "setor": "K-TP Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "128GB",
+  "embalagem": "M",
+  "variante": "Oversized",
+  "preco": 60.5,
+  "estoque": 28,
+  "descricao": "Produto oficial KORVIL KORVIL-0018-PRO. Calça Jogger Oversized com sabor 128GB, embalagem M. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/M/128GB/Oversized/KORVIL-0018-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0018-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0018-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0018-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/M/128GB/Oversized"
 }

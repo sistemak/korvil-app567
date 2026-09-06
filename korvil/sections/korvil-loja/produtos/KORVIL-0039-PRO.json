@@ -1,17 +1,23 @@
 {
   "id": "prod-0039",
   "codigo": "KORVIL-0039-PRO",
-  "nome_completo": "Termogênico Black Caixa 60 caps Cookies Creme",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "Termogênico Black Caixa 60 caps Cookies Creme da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0039-PRO. Alta qualidade, entrega rápida.",
-  "preco": 216.4,
-  "preco_formatado": "R$ 216,40",
+  "nome_completo": "KORVIL-0039-PRO | BLACK SKULL Produto KORVIL PDF P | BLACK SKULL | Hidrolisado",
+  "nome": "BLACK SKULL Produto KORVIL PDF P",
+  "marca": "BLACK SKULL",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "PDF",
+  "embalagem": "P",
+  "variante": "Hidrolisado",
+  "preco": 96.2,
+  "estoque": 49,
+  "descricao": "Produto oficial KORVIL KORVIL-0039-PRO. BLACK SKULL Hidrolisado com sabor PDF, embalagem P. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/BLACK SKULL/Produto KORVIL/P/PDF/Hidrolisado/KORVIL-0039-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0039-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0039-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0039-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/BLACK SKULL/Produto KORVIL/P/PDF/Hidrolisado"
 }

@@ -1,17 +1,23 @@
 {
   "id": "prod-0032",
   "codigo": "KORVIL-0032-PRO",
-  "nome_completo": "Whey Protein Profit Pote 900g Baunilha Concentrado",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "Whey Protein Profit Pote 900g Baunilha Concentrado da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0032-PRO. Alta qualidade, entrega rápida.",
-  "preco": 191.9,
-  "preco_formatado": "R$ 191,90",
+  "nome_completo": "KORVIL-0032-PRO | Curso Manutenção Celular Produto KORVIL G Tela 6.1\" | Curso Manutenção Celular | Premium",
+  "nome": "Curso Manutenção Celular Produto KORVIL G Tela 6.1\"",
+  "marca": "Curso Manutenção Celular",
+  "setor": "K-ALMA Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "G",
+  "embalagem": "Tela 6.1\"",
+  "variante": "Premium",
+  "preco": 84.3,
+  "estoque": 42,
+  "descricao": "Produto oficial KORVIL KORVIL-0032-PRO. Curso Manutenção Celular Premium com sabor G, embalagem Tela 6.1\". Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Produtos/Suplementos/Curso Manutenção Celular/Produto KORVIL/Tela 6.1\"/G/Premium/KORVIL-0032-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0032-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0032-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0032-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Produtos/Suplementos/Curso Manutenção Celular/Produto KORVIL/Tela 6.1\"/G/Premium"
 }

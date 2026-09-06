@@ -1,17 +1,23 @@
 {
   "id": "prod-0040",
   "codigo": "KORVIL-0040-PRO",
-  "nome_completo": "Whey Protein Profit Pote 900g Chocolate Concentrado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "Whey Protein Profit Pote 900g Chocolate Concentrado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0040-PRO. Alta qualidade, entrega rápida.",
-  "preco": 219.9,
-  "preco_formatado": "R$ 219,90",
+  "nome_completo": "KORVIL-0040-PRO | ADAPTOGEN Produto KORVIL Vídeo-aula M | ADAPTOGEN | Original",
+  "nome": "ADAPTOGEN Produto KORVIL Vídeo-aula M",
+  "marca": "ADAPTOGEN",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Vídeo-aula",
+  "embalagem": "M",
+  "variante": "Original",
+  "preco": 97.9,
+  "estoque": 50,
+  "descricao": "Produto oficial KORVIL KORVIL-0040-PRO. ADAPTOGEN Original com sabor Vídeo-aula, embalagem M. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/ADAPTOGEN/Produto KORVIL/M/Vídeo-aula/Original/KORVIL-0040-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0040-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0040-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0040-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/ADAPTOGEN/Produto KORVIL/M/Vídeo-aula/Original"
 }

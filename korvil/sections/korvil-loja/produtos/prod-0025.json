@@ -1,17 +1,23 @@
 {
   "id": "prod-0025",
   "codigo": "KORVIL-0025-PRO",
-  "nome_completo": "Creatina Monohidratada Pote 500g Chocolate Isolado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Pote 500g",
-  "variante": "Isolado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "Creatina Monohidratada Pote 500g Chocolate Isolado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0025-PRO. Alta qualidade, entrega rápida.",
-  "preco": 167.4,
-  "preco_formatado": "R$ 167,40",
+  "nome_completo": "KORVIL-0025-PRO | Bateria Samsung Produto KORVIL Cookies Garrafa 500ml | Bateria Samsung | Dry Fit",
+  "nome": "Bateria Samsung Produto KORVIL Cookies Garrafa 500ml",
+  "marca": "Bateria Samsung",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Manutenção de Celular",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Cookies",
+  "embalagem": "Garrafa 500ml",
+  "variante": "Dry Fit",
+  "preco": 72.4,
+  "estoque": 35,
+  "descricao": "Produto oficial KORVIL KORVIL-0025-PRO. Bateria Samsung Dry Fit com sabor Cookies, embalagem Garrafa 500ml. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Manutenção de Celular/Bateria Samsung/Produto KORVIL/Garrafa 500ml/Cookies/Dry Fit/KORVIL-0025-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0025-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0025-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0025-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Manutenção de Celular/Bateria Samsung/Produto KORVIL/Garrafa 500ml/Cookies/Dry Fit"
 }

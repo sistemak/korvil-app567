@@ -1,17 +1,23 @@
 {
   "id": "prod-0026",
   "codigo": "KORVIL-0026-PRO",
-  "nome_completo": "BCAA 2:1:1 Sache 30g Morango Hidrolisado",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "BCAA 2:1:1 Sache 30g Morango Hidrolisado da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0026-PRO. Alta qualidade, entrega rápida.",
-  "preco": 170.9,
-  "preco_formatado": "R$ 170,90",
+  "nome_completo": "KORVIL-0026-PRO | Bateria iPhone Produto KORVIL Preto Caixa 30 caps | Bateria iPhone | Algodão",
+  "nome": "Bateria iPhone Produto KORVIL Preto Caixa 30 caps",
+  "marca": "Bateria iPhone",
+  "setor": "K-ALMA Loja",
+  "categoria": "Manutenção de Celular",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Preto",
+  "embalagem": "Caixa 30 caps",
+  "variante": "Algodão",
+  "preco": 74.1,
+  "estoque": 36,
+  "descricao": "Produto oficial KORVIL KORVIL-0026-PRO. Bateria iPhone Algodão com sabor Preto, embalagem Caixa 30 caps. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Manutenção de Celular/Bateria iPhone/Produto KORVIL/Caixa 30 caps/Preto/Algodão/KORVIL-0026-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0026-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0026-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0026-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Manutenção de Celular/Bateria iPhone/Produto KORVIL/Caixa 30 caps/Preto/Algodão"
 }

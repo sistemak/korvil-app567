@@ -1,17 +1,23 @@
 {
   "id": "prod-0050",
   "codigo": "KORVIL-0050-PRO",
-  "nome_completo": "BCAA 2:1:1 Sache 30g Chocolate Hidrolisado",
-  "marca": "PROFIT",
-  "sabor": "Chocolate",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "K-TP Loja > Fitness - Produtos > Suplementos > PROFIT",
-  "descricao_oficial": "BCAA 2:1:1 Sache 30g Chocolate Hidrolisado da marca PROFIT. Produto oficial KORVIL Loja - K-TP Loja > Fitness - Produtos > Suplementos > PROFIT. Código KORVIL-0050-PRO. Alta qualidade, entrega rápida.",
-  "preco": 254.9,
-  "preco_formatado": "R$ 254,90",
+  "nome_completo": "KORVIL-0050-PRO | Calça Jogger Produto KORVIL P P | Calça Jogger | Premium",
+  "nome": "Calça Jogger Produto KORVIL P P",
+  "marca": "Calça Jogger",
+  "setor": "K-ALMA Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "P",
+  "embalagem": "P",
+  "variante": "Premium",
+  "preco": 114.9,
+  "estoque": 60,
+  "descricao": "Produto oficial KORVIL KORVIL-0050-PRO. Calça Jogger Premium com sabor P, embalagem P. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/P/P/Premium/KORVIL-0050-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0050-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0050-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0050-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-ALMA Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/P/P/Premium"
 }

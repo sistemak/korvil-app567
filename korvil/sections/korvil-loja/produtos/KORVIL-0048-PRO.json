@@ -1,17 +1,23 @@
 {
   "id": "prod-0048",
   "codigo": "KORVIL-0048-PRO",
-  "nome_completo": "Whey Protein Profit Pote 900g Neutro Concentrado",
-  "marca": "MAX TITANIUM",
-  "sabor": "Neutro",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM",
-  "descricao_oficial": "Whey Protein Profit Pote 900g Neutro Concentrado da marca MAX TITANIUM. Produto oficial KORVIL Loja - K-ALMA Loja > Bem-Estar > Aromas > MAX TITANIUM. Código KORVIL-0048-PRO. Alta qualidade, entrega rápida.",
-  "preco": 247.9,
-  "preco_formatado": "R$ 247,90",
+  "nome_completo": "KORVIL-0048-PRO | Calça Legging Produto KORVIL Azul Caixa 30 caps | Calça Legging | Hidrolisado",
+  "nome": "Calça Legging Produto KORVIL Azul Caixa 30 caps",
+  "marca": "Calça Legging",
+  "setor": "K-TP Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "Azul",
+  "embalagem": "Caixa 30 caps",
+  "variante": "Hidrolisado",
+  "preco": 111.5,
+  "estoque": 58,
+  "descricao": "Produto oficial KORVIL KORVIL-0048-PRO. Calça Legging Hidrolisado com sabor Azul, embalagem Caixa 30 caps. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Calça Legging/Produto KORVIL/Caixa 30 caps/Azul/Hidrolisado/KORVIL-0048-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0048-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0048-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0048-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Vestuário/Calça Legging/Produto KORVIL/Caixa 30 caps/Azul/Hidrolisado"
 }

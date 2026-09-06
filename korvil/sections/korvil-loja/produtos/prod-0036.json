@@ -1,17 +1,23 @@
 {
   "id": "prod-0036",
   "codigo": "KORVIL-0036-PRO",
-  "nome_completo": "Pré-Treino Insano Pote 900g Morango Concentrado",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Pré-Treino Insano Pote 900g Morango Concentrado da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0036-PRO. Alta qualidade, entrega rápida.",
-  "preco": 205.9,
-  "preco_formatado": "R$ 205,90",
+  "nome_completo": "KORVIL-0036-PRO | DARKNESS Produto KORVIL 15ml Garrafa 500ml | DARKNESS | Oversized",
+  "nome": "DARKNESS Produto KORVIL 15ml Garrafa 500ml",
+  "marca": "DARKNESS",
+  "setor": "K-TP Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "15ml",
+  "embalagem": "Garrafa 500ml",
+  "variante": "Oversized",
+  "preco": 91.1,
+  "estoque": 46,
+  "descricao": "Produto oficial KORVIL KORVIL-0036-PRO. DARKNESS Oversized com sabor 15ml, embalagem Garrafa 500ml. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/DARKNESS/Produto KORVIL/Garrafa 500ml/15ml/Oversized/KORVIL-0036-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0036-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0036-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0036-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/DARKNESS/Produto KORVIL/Garrafa 500ml/15ml/Oversized"
 }

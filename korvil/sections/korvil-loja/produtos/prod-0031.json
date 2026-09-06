@@ -1,17 +1,23 @@
 {
   "id": "prod-0031",
   "codigo": "KORVIL-0031-PRO",
-  "nome_completo": "Termogênico Black Caixa 60 caps Morango Creme",
-  "marca": "GROWTH",
-  "sabor": "Morango",
-  "embalagem": "Caixa 60 caps",
-  "variante": "Creme",
-  "setor": "SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH",
-  "descricao_oficial": "Termogênico Black Caixa 60 caps Morango Creme da marca GROWTH. Produto oficial KORVIL Loja - SISTEMA K Loja > Manutenção de Celular > Tela > GROWTH. Código KORVIL-0031-PRO. Alta qualidade, entrega rápida.",
-  "preco": 188.4,
-  "preco_formatado": "R$ 188,40",
+  "nome_completo": "KORVIL-0031-PRO | Curso Cabeleireiro Produto KORVIL M GG | Curso Cabeleireiro | Original",
+  "nome": "Curso Cabeleireiro Produto KORVIL M GG",
+  "marca": "Curso Cabeleireiro",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "M",
+  "embalagem": "GG",
+  "variante": "Original",
+  "preco": 82.6,
+  "estoque": 41,
+  "descricao": "Produto oficial KORVIL KORVIL-0031-PRO. Curso Cabeleireiro Original com sabor M, embalagem GG. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/Curso Cabeleireiro/Produto KORVIL/GG/M/Original/KORVIL-0031-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0031-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0031-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0031-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/Curso Cabeleireiro/Produto KORVIL/GG/M/Original"
 }

@@ -1,17 +1,23 @@
 {
   "id": "prod-0012",
   "codigo": "KORVIL-0012-PRO",
-  "nome_completo": "Pré-Treino Insano Pote 900g Baunilha Concentrado",
-  "marca": "INTEGRALMEDICA",
-  "sabor": "Baunilha",
+  "nome_completo": "KORVIL-0012-PRO | Camiseta Algodão Camiseta Performance G Pote 900g | Camiseta Algodão | Hidrolisado",
+  "nome": "Camiseta Algodão Camiseta Performance G Pote 900g",
+  "marca": "Camiseta Algodão",
+  "setor": "K-TP Loja",
+  "categoria": "Fitness - Vestuário",
+  "produto_cor": "Camiseta Performance",
+  "sabor": "G",
   "embalagem": "Pote 900g",
-  "variante": "Concentrado",
-  "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
-  "descricao_oficial": "Pré-Treino Insano Pote 900g Baunilha Concentrado da marca INTEGRALMEDICA. Produto oficial KORVIL Loja - K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA. Código KORVIL-0012-PRO. Alta qualidade, entrega rápida.",
-  "preco": 121.9,
-  "preco_formatado": "R$ 121,90",
+  "variante": "Hidrolisado",
+  "preco": 50.3,
+  "estoque": 22,
+  "descricao": "Produto oficial KORVIL KORVIL-0012-PRO. Camiseta Algodão Hidrolisado com sabor G, embalagem Pote 900g. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Camiseta Algodão/Camiseta Performance/Pote 900g/G/Hidrolisado/KORVIL-0012-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0012-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0012-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.866Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0012-PRO/400/400",
+  "videos": [],
+  "disponivel": true,
+  "fullPath": "K-TP Loja/Fitness - Vestuário/Camiseta Algodão/Camiseta Performance/Pote 900g/G/Hidrolisado"
 }

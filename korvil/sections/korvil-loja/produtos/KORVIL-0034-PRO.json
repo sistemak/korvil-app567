@@ -1,17 +1,23 @@
 {
   "id": "prod-0034",
   "codigo": "KORVIL-0034-PRO",
-  "nome_completo": "BCAA 2:1:1 Sache 30g Cookies Hidrolisado",
-  "marca": "KORVIL LABS",
-  "sabor": "Cookies",
-  "embalagem": "Sache 30g",
-  "variante": "Hidrolisado",
-  "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
-  "descricao_oficial": "BCAA 2:1:1 Sache 30g Cookies Hidrolisado da marca KORVIL LABS. Produto oficial KORVIL Loja - INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS. Código KORVIL-0034-PRO. Alta qualidade, entrega rápida.",
-  "preco": 198.9,
-  "preco_formatado": "R$ 198,90",
+  "nome_completo": "KORVIL-0034-PRO | GROWTH Produto KORVIL 900g Pote 900g | GROWTH | Dry Fit",
+  "nome": "GROWTH Produto KORVIL 900g Pote 900g",
+  "marca": "GROWTH",
+  "setor": "SISTEMA K Loja",
+  "categoria": "Suplementos",
+  "produto_cor": "Produto KORVIL",
+  "sabor": "900g",
+  "embalagem": "Pote 900g",
+  "variante": "Dry Fit",
+  "preco": 87.7,
+  "estoque": 44,
+  "descricao": "Produto oficial KORVIL KORVIL-0034-PRO. GROWTH Dry Fit com sabor 900g, embalagem Pote 900g. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/GROWTH/Produto KORVIL/Pote 900g/900g/Dry Fit/KORVIL-0034-PRO.json",
   "imagens": [
-    "https://korvil.com.br/img/KORVIL-0034-PRO.jpg"
+    "https://picsum.photos/seed/KORVIL-0034-PRO/400/400"
   ],
-  "criado_em": "2026-09-06T22:49:13.867Z"
+  "imagem_principal": "https://picsum.photos/seed/KORVIL-0034-PRO/400/400",
+  "videos": [],
+  "disponivel": false,
+  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/GROWTH/Produto KORVIL/Pote 900g/900g/Dry Fit"
 }
