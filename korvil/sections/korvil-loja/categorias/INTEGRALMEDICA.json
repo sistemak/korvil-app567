@@ -1,0 +1,116 @@
+{
+  "marca": "INTEGRALMEDICA",
+  "total": 10,
+  "produtos": [
+    {
+      "id": "prod-0002",
+      "codigo": "KORVIL-0002-PRO",
+      "nome_completo": "BCAA 2:1:1 Sache 30g Baunilha Hidrolisado",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Sache 30g",
+      "variante": "Hidrolisado",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "86.90"
+    },
+    {
+      "id": "prod-0007",
+      "codigo": "KORVIL-0007-PRO",
+      "nome_completo": "Termogênico Black Caixa 60 caps Baunilha Creme",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Caixa 60 caps",
+      "variante": "Creme",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "104.40"
+    },
+    {
+      "id": "prod-0012",
+      "codigo": "KORVIL-0012-PRO",
+      "nome_completo": "Pré-Treino Insano Pote 900g Baunilha Concentrado",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Pote 900g",
+      "variante": "Concentrado",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "121.90"
+    },
+    {
+      "id": "prod-0017",
+      "codigo": "KORVIL-0017-PRO",
+      "nome_completo": "Creatina Monohidratada Pote 500g Baunilha Isolado",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Pote 500g",
+      "variante": "Isolado",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "139.40"
+    },
+    {
+      "id": "prod-0022",
+      "codigo": "KORVIL-0022-PRO",
+      "nome_completo": "Hipercalórico Mass Sache 30g Baunilha Hidrolisado",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Sache 30g",
+      "variante": "Hidrolisado",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "156.90"
+    },
+    {
+      "id": "prod-0027",
+      "codigo": "KORVIL-0027-PRO",
+      "nome_completo": "Glutamina Power Caixa 60 caps Baunilha Creme",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Caixa 60 caps",
+      "variante": "Creme",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "174.40"
+    },
+    {
+      "id": "prod-0032",
+      "codigo": "KORVIL-0032-PRO",
+      "nome_completo": "Whey Protein Profit Pote 900g Baunilha Concentrado",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Pote 900g",
+      "variante": "Concentrado",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "191.90"
+    },
+    {
+      "id": "prod-0037",
+      "codigo": "KORVIL-0037-PRO",
+      "nome_completo": "Whey Isolado Pote 500g Baunilha Isolado",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Pote 500g",
+      "variante": "Isolado",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "209.40"
+    },
+    {
+      "id": "prod-0042",
+      "codigo": "KORVIL-0042-PRO",
+      "nome_completo": "BCAA 2:1:1 Sache 30g Baunilha Hidrolisado",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Sache 30g",
+      "variante": "Hidrolisado",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "226.90"
+    },
+    {
+      "id": "prod-0047",
+      "codigo": "KORVIL-0047-PRO",
+      "nome_completo": "Termogênico Black Caixa 60 caps Baunilha Creme",
+      "marca": "INTEGRALMEDICA",
+      "sabor": "Baunilha",
+      "embalagem": "Caixa 60 caps",
+      "variante": "Creme",
+      "setor": "K-AFORTUNADO Loja > E-books > Desenvolvimento > INTEGRALMEDICA",
+      "preco": "244.40"
+    }
+  ]
+}

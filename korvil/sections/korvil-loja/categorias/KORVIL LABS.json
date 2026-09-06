@@ -1,0 +1,116 @@
+{
+  "marca": "KORVIL LABS",
+  "total": 10,
+  "produtos": [
+    {
+      "id": "prod-0004",
+      "codigo": "KORVIL-0004-PRO",
+      "nome_completo": "Pré-Treino Insano Pote 900g Cookies Concentrado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Pote 900g",
+      "variante": "Concentrado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "93.90"
+    },
+    {
+      "id": "prod-0009",
+      "codigo": "KORVIL-0009-PRO",
+      "nome_completo": "Creatina Monohidratada Pote 500g Cookies Isolado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Pote 500g",
+      "variante": "Isolado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "111.40"
+    },
+    {
+      "id": "prod-0014",
+      "codigo": "KORVIL-0014-PRO",
+      "nome_completo": "Hipercalórico Mass Sache 30g Cookies Hidrolisado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Sache 30g",
+      "variante": "Hidrolisado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "128.90"
+    },
+    {
+      "id": "prod-0019",
+      "codigo": "KORVIL-0019-PRO",
+      "nome_completo": "Glutamina Power Caixa 60 caps Cookies Creme",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Caixa 60 caps",
+      "variante": "Creme",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "146.40"
+    },
+    {
+      "id": "prod-0024",
+      "codigo": "KORVIL-0024-PRO",
+      "nome_completo": "Whey Protein Profit Pote 900g Cookies Concentrado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Pote 900g",
+      "variante": "Concentrado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "163.90"
+    },
+    {
+      "id": "prod-0029",
+      "codigo": "KORVIL-0029-PRO",
+      "nome_completo": "Whey Isolado Pote 500g Cookies Isolado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Pote 500g",
+      "variante": "Isolado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "181.40"
+    },
+    {
+      "id": "prod-0034",
+      "codigo": "KORVIL-0034-PRO",
+      "nome_completo": "BCAA 2:1:1 Sache 30g Cookies Hidrolisado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Sache 30g",
+      "variante": "Hidrolisado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "198.90"
+    },
+    {
+      "id": "prod-0039",
+      "codigo": "KORVIL-0039-PRO",
+      "nome_completo": "Termogênico Black Caixa 60 caps Cookies Creme",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Caixa 60 caps",
+      "variante": "Creme",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "216.40"
+    },
+    {
+      "id": "prod-0044",
+      "codigo": "KORVIL-0044-PRO",
+      "nome_completo": "Pré-Treino Insano Pote 900g Cookies Concentrado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Pote 900g",
+      "variante": "Concentrado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "233.90"
+    },
+    {
+      "id": "prod-0049",
+      "codigo": "KORVIL-0049-PRO",
+      "nome_completo": "Creatina Monohidratada Pote 500g Cookies Isolado",
+      "marca": "KORVIL LABS",
+      "sabor": "Cookies",
+      "embalagem": "Pote 500g",
+      "variante": "Isolado",
+      "setor": "INDISPONIVEIS > Arquivados > 2024 > KORVIL LABS",
+      "preco": "251.40"
+    }
+  ]
+}
