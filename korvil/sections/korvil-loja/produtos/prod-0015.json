@@ -1,0 +1,16 @@
+{
+  "id": "prod-0015",
+  "codigo": "KORVIL-0015-VUL",
+  "nome": "VULCAN Vitaminas Chocolate Intenso Pote 300g",
+  "marca": "VULCAN",
+  "sabor": "Chocolate Intenso",
+  "embalagem": "Pote 300g",
+  "preco": 160,
+  "precoOriginal": 216,
+  "setor": "Vitaminas",
+  "categoria": "vitaminas",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "VULCAN - Vitaminas sabor Chocolate Intenso em Pote 300g. Fórmula KORVIL de alta performance.",
+  "estoque": 19
+}

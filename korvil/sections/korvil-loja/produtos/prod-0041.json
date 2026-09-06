@@ -1,0 +1,16 @@
+{
+  "id": "prod-0041",
+  "codigo": "KORVIL-0041-BOD",
+  "nome": "BODY ACTION Aminoácidos Natural Pote 300g",
+  "marca": "BODY ACTION",
+  "sabor": "Natural",
+  "embalagem": "Pote 300g",
+  "preco": 135,
+  "precoOriginal": 182.25,
+  "setor": "Aminoácidos",
+  "categoria": "aminoácidos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "BODY ACTION - Aminoácidos sabor Natural em Pote 300g. Fórmula KORVIL de alta performance.",
+  "estoque": 5
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prod-0050",
+  "codigo": "KORVIL-0050-BLA",
+  "nome": "BLACK SKULL Aminoácidos Doce de Leite Caps 120un",
+  "marca": "BLACK SKULL",
+  "sabor": "Doce de Leite",
+  "embalagem": "Caps 120un",
+  "preco": 202.5,
+  "precoOriginal": 273.38,
+  "setor": "Aminoácidos",
+  "categoria": "aminoácidos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "BLACK SKULL - Aminoácidos sabor Doce de Leite em Caps 120un. Fórmula KORVIL de alta performance.",
+  "estoque": 14
+}

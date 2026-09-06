@@ -1,0 +1,16 @@
+{
+  "id": "prod-0032",
+  "codigo": "KORVIL-0032-VIT",
+  "nome": "VITAFOR Aminoácidos Morango Caixa 12 un",
+  "marca": "VITAFOR",
+  "sabor": "Morango",
+  "embalagem": "Caixa 12 un",
+  "preco": 63.5,
+  "precoOriginal": 85.73,
+  "setor": "Aminoácidos",
+  "categoria": "aminoácidos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "VITAFOR - Aminoácidos sabor Morango em Caixa 12 un. Fórmula KORVIL de alta performance.",
+  "estoque": 36
+}

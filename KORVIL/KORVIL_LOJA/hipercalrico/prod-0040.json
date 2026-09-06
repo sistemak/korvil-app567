@@ -1,0 +1,16 @@
+{
+  "id": "prod-0040",
+  "codigo": "KORVIL-0040-NUT",
+  "nome": "NUTRATA Hipercalórico Café Pote 150g",
+  "marca": "NUTRATA",
+  "sabor": "Café",
+  "embalagem": "Pote 150g",
+  "preco": 123.5,
+  "precoOriginal": 166.73,
+  "setor": "Hipercalórico",
+  "categoria": "hipercalórico",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "NUTRATA - Hipercalórico sabor Café em Pote 150g. Fórmula KORVIL de alta performance.",
+  "estoque": 44
+}

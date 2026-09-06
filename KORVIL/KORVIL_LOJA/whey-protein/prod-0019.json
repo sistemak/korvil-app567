@@ -1,0 +1,16 @@
+{
+  "id": "prod-0019",
+  "codigo": "KORVIL-0019-BOD",
+  "nome": "BODY ACTION Whey Protein Cookies Caixa 12 un",
+  "marca": "BODY ACTION",
+  "sabor": "Cookies",
+  "embalagem": "Caixa 12 un",
+  "preco": 195,
+  "precoOriginal": 263.25,
+  "setor": "Whey Protein",
+  "categoria": "whey-protein",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "BODY ACTION - Whey Protein sabor Cookies em Caixa 12 un. Fórmula KORVIL de alta performance.",
+  "estoque": 23
+}

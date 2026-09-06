@@ -1,0 +1,16 @@
+{
+  "id": "prod-0023",
+  "codigo": "KORVIL-0023-PRO",
+  "nome": "PROFIT Aminoácidos Coco Caps 60un",
+  "marca": "PROFIT",
+  "sabor": "Coco",
+  "embalagem": "Caps 60un",
+  "preco": 220,
+  "precoOriginal": 297,
+  "setor": "Aminoácidos",
+  "categoria": "aminoácidos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "PROFIT - Aminoácidos sabor Coco em Caps 60un. Fórmula KORVIL de alta performance.",
+  "estoque": 27
+}

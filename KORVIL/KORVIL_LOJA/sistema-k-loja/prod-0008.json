@@ -1,0 +1,16 @@
+{
+  "id": "prod-0008",
+  "codigo": "KORVIL-0008-FTW",
+  "nome": "FTW SISTEMA K Loja Coco Garrafinha 500ml",
+  "marca": "FTW",
+  "sabor": "Coco",
+  "embalagem": "Garrafinha 500ml",
+  "preco": 104.5,
+  "precoOriginal": 141.08,
+  "setor": "SISTEMA K Loja",
+  "categoria": "sistema-k-loja",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "FTW - SISTEMA K Loja sabor Coco em Garrafinha 500ml. Fórmula KORVIL de alta performance.",
+  "estoque": 12
+}

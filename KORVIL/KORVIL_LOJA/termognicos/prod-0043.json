@@ -1,0 +1,16 @@
+{
+  "id": "prod-0043",
+  "codigo": "KORVIL-0043-DAR",
+  "nome": "DARK LAB Termogênicos Baunilha com Cookies Pote 900g",
+  "marca": "DARK LAB",
+  "sabor": "Baunilha com Cookies",
+  "embalagem": "Pote 900g",
+  "preco": 147,
+  "precoOriginal": 198.45,
+  "setor": "Termogênicos",
+  "categoria": "termogênicos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "DARK LAB - Termogênicos sabor Baunilha com Cookies em Pote 900g. Fórmula KORVIL de alta performance.",
+  "estoque": 7
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prod-0002",
+  "codigo": "KORVIL-0002-GRO",
+  "nome": "GROWTH Creatina Morango Pote 300g",
+  "marca": "GROWTH",
+  "sabor": "Morango",
+  "embalagem": "Pote 300g",
+  "preco": 62.5,
+  "precoOriginal": 84.38,
+  "setor": "Creatina",
+  "categoria": "creatina",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "GROWTH - Creatina sabor Morango em Pote 300g. Fórmula KORVIL de alta performance.",
+  "estoque": 6
+}

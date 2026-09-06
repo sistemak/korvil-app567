@@ -1,0 +1,16 @@
+{
+  "id": "prod-0010",
+  "codigo": "KORVIL-0010-VIT",
+  "nome": "VITAFOR Whey Protein Café Caps 60un",
+  "marca": "VITAFOR",
+  "sabor": "Café",
+  "embalagem": "Caps 60un",
+  "preco": 123.5,
+  "precoOriginal": 166.73,
+  "setor": "Whey Protein",
+  "categoria": "whey-protein",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "VITAFOR - Whey Protein sabor Café em Caps 60un. Fórmula KORVIL de alta performance.",
+  "estoque": 14
+}

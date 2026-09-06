@@ -1,0 +1,16 @@
+{
+  "id": "prod-0035",
+  "codigo": "KORVIL-0035-ATL",
+  "nome": "ATLHETICA SISTEMA K Loja Doce de Leite Barra 60g",
+  "marca": "ATLHETICA",
+  "sabor": "Doce de Leite",
+  "embalagem": "Barra 60g",
+  "preco": 88,
+  "precoOriginal": 118.8,
+  "setor": "SISTEMA K Loja",
+  "categoria": "sistema-k-loja",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "ATLHETICA - SISTEMA K Loja sabor Doce de Leite em Barra 60g. Fórmula KORVIL de alta performance.",
+  "estoque": 39
+}

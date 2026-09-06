@@ -1,0 +1,16 @@
+{
+  "id": "prod-0024",
+  "codigo": "KORVIL-0024-GRO",
+  "nome": "GROWTH Vitaminas Avelã Caps 120un",
+  "marca": "GROWTH",
+  "sabor": "Avelã",
+  "embalagem": "Caps 120un",
+  "preco": 227.5,
+  "precoOriginal": 307.13,
+  "setor": "Vitaminas",
+  "categoria": "vitaminas",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "GROWTH - Vitaminas sabor Avelã em Caps 120un. Fórmula KORVIL de alta performance.",
+  "estoque": 28
+}

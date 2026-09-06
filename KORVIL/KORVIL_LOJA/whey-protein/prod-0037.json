@@ -1,0 +1,16 @@
+{
+  "id": "prod-0037",
+  "codigo": "KORVIL-0037-VUL",
+  "nome": "VULCAN Whey Protein Paçoca Caps 120un",
+  "marca": "VULCAN",
+  "sabor": "Paçoca",
+  "embalagem": "Caps 120un",
+  "preco": 100,
+  "precoOriginal": 135,
+  "setor": "Whey Protein",
+  "categoria": "whey-protein",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "VULCAN - Whey Protein sabor Paçoca em Caps 120un. Fórmula KORVIL de alta performance.",
+  "estoque": 41
+}

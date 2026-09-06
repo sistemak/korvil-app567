@@ -1,0 +1,16 @@
+{
+  "id": "prod-0003",
+  "codigo": "KORVIL-0003-MAX",
+  "nome": "MAX TITANIUM Pré-Treino Baunilha Pote 450g",
+  "marca": "MAX TITANIUM",
+  "sabor": "Baunilha",
+  "embalagem": "Pote 450g",
+  "preco": 76,
+  "precoOriginal": 102.6,
+  "setor": "Pré-Treino",
+  "categoria": "pré-treino",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "MAX TITANIUM - Pré-Treino sabor Baunilha em Pote 450g. Fórmula KORVIL de alta performance.",
+  "estoque": 7
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prod-0012",
+  "codigo": "KORVIL-0012-PRO",
+  "nome": "PROBIOTICA Pré-Treino Chocolate com Avelã Pote 1,2kg",
+  "marca": "PROBIOTICA",
+  "sabor": "Chocolate com Avelã",
+  "embalagem": "Pote 1,2kg",
+  "preco": 141.5,
+  "precoOriginal": 191.03,
+  "setor": "Pré-Treino",
+  "categoria": "pré-treino",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "PROBIOTICA - Pré-Treino sabor Chocolate com Avelã em Pote 1,2kg. Fórmula KORVIL de alta performance.",
+  "estoque": 16
+}

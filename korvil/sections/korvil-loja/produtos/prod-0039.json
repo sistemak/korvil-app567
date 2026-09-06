@@ -1,0 +1,16 @@
+{
+  "id": "prod-0039",
+  "codigo": "KORVIL-0039-CHE",
+  "nome": "CHEESE Pré-Treino Avelã Sache 15g",
+  "marca": "CHEESE",
+  "sabor": "Avelã",
+  "embalagem": "Sache 15g",
+  "preco": 115,
+  "precoOriginal": 155.25,
+  "setor": "Pré-Treino",
+  "categoria": "pré-treino",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "CHEESE - Pré-Treino sabor Avelã em Sache 15g. Fórmula KORVIL de alta performance.",
+  "estoque": 43
+}

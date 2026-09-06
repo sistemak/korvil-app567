@@ -1,0 +1,16 @@
+{
+  "id": "prod-0016",
+  "codigo": "KORVIL-0016-DR ",
+  "nome": "DR PEANUT Termogênicos Chocolate Pote 450g",
+  "marca": "DR PEANUT",
+  "sabor": "Chocolate",
+  "embalagem": "Pote 450g",
+  "preco": 170.5,
+  "precoOriginal": 230.18,
+  "setor": "Termogênicos",
+  "categoria": "termogênicos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "DR PEANUT - Termogênicos sabor Chocolate em Pote 450g. Fórmula KORVIL de alta performance.",
+  "estoque": 20
+}

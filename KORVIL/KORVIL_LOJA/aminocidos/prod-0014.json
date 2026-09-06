@@ -1,0 +1,16 @@
+{
+  "id": "prod-0014",
+  "codigo": "KORVIL-0014-NEW",
+  "nome": "NEW MILLEN Aminoácidos Morango com Leite Pote 150g",
+  "marca": "NEW MILLEN",
+  "sabor": "Morango com Leite",
+  "embalagem": "Pote 150g",
+  "preco": 156.5,
+  "precoOriginal": 211.28,
+  "setor": "Aminoácidos",
+  "categoria": "aminoácidos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "NEW MILLEN - Aminoácidos sabor Morango com Leite em Pote 150g. Fórmula KORVIL de alta performance.",
+  "estoque": 18
+}

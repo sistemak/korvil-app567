@@ -1,0 +1,16 @@
+{
+  "id": "prod-0021",
+  "codigo": "KORVIL-0021-DAR",
+  "nome": "DARK LAB Pré-Treino Chocolate Branco Garrafinha 500ml",
+  "marca": "DARK LAB",
+  "sabor": "Chocolate Branco",
+  "embalagem": "Garrafinha 500ml",
+  "preco": 207,
+  "precoOriginal": 279.45,
+  "setor": "Pré-Treino",
+  "categoria": "pré-treino",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "DARK LAB - Pré-Treino sabor Chocolate Branco em Garrafinha 500ml. Fórmula KORVIL de alta performance.",
+  "estoque": 25
+}

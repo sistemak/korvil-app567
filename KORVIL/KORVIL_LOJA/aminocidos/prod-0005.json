@@ -1,0 +1,16 @@
+{
+  "id": "prod-0005",
+  "codigo": "KORVIL-0005-INT",
+  "nome": "INTEGRALMEDICA Aminoácidos Doce de Leite Sache 30g",
+  "marca": "INTEGRALMEDICA",
+  "sabor": "Doce de Leite",
+  "embalagem": "Sache 30g",
+  "preco": 93,
+  "precoOriginal": 125.55,
+  "setor": "Aminoácidos",
+  "categoria": "aminoácidos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "INTEGRALMEDICA - Aminoácidos sabor Doce de Leite em Sache 30g. Fórmula KORVIL de alta performance.",
+  "estoque": 9
+}

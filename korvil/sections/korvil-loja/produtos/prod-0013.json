@@ -1,0 +1,16 @@
+{
+  "id": "prod-0013",
+  "codigo": "KORVIL-0013-ATL",
+  "nome": "ATLHETICA Hipercalórico Baunilha com Cookies Sache 15g",
+  "marca": "ATLHETICA",
+  "sabor": "Baunilha com Cookies",
+  "embalagem": "Sache 15g",
+  "preco": 148,
+  "precoOriginal": 199.8,
+  "setor": "Hipercalórico",
+  "categoria": "hipercalórico",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "ATLHETICA - Hipercalórico sabor Baunilha com Cookies em Sache 15g. Fórmula KORVIL de alta performance.",
+  "estoque": 17
+}

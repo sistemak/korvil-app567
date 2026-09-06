@@ -1,0 +1,16 @@
+{
+  "id": "prod-0025",
+  "codigo": "KORVIL-0025-MAX",
+  "nome": "MAX TITANIUM Termogênicos Café Pote 1,2kg",
+  "marca": "MAX TITANIUM",
+  "sabor": "Café",
+  "embalagem": "Pote 1,2kg",
+  "preco": 241,
+  "precoOriginal": 325.35,
+  "setor": "Termogênicos",
+  "categoria": "termogênicos",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "MAX TITANIUM - Termogênicos sabor Café em Pote 1,2kg. Fórmula KORVIL de alta performance.",
+  "estoque": 29
+}

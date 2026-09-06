@@ -1,0 +1,16 @@
+{
+  "id": "prod-0020",
+  "codigo": "KORVIL-0020-SHA",
+  "nome": "SHARK PRO Creatina Doce de Leite Refil 1kg",
+  "marca": "SHARK PRO",
+  "sabor": "Doce de Leite",
+  "embalagem": "Refil 1kg",
+  "preco": 200.5,
+  "precoOriginal": 270.68,
+  "setor": "Creatina",
+  "categoria": "creatina",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "SHARK PRO - Creatina sabor Doce de Leite em Refil 1kg. Fórmula KORVIL de alta performance.",
+  "estoque": 24
+}

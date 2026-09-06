@@ -1,0 +1,16 @@
+{
+  "id": "prod-0027",
+  "codigo": "KORVIL-0027-INT",
+  "nome": "INTEGRALMEDICA K-TP Loja Chocolate com Avelã Pote 150g",
+  "marca": "INTEGRALMEDICA",
+  "sabor": "Chocolate com Avelã",
+  "embalagem": "Pote 150g",
+  "preco": 258,
+  "precoOriginal": 348.3,
+  "setor": "K-TP Loja",
+  "categoria": "k-tp-loja",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "INTEGRALMEDICA - K-TP Loja sabor Chocolate com Avelã em Pote 150g. Fórmula KORVIL de alta performance.",
+  "estoque": 31
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prod-0018",
+  "codigo": "KORVIL-0018-NUT",
+  "nome": "NUTRATA K-TP Loja Baunilha Sache 30g",
+  "marca": "NUTRATA",
+  "sabor": "Baunilha",
+  "embalagem": "Sache 30g",
+  "preco": 183.5,
+  "precoOriginal": 247.73,
+  "setor": "K-TP Loja",
+  "categoria": "k-tp-loja",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "NUTRATA - K-TP Loja sabor Baunilha em Sache 30g. Fórmula KORVIL de alta performance.",
+  "estoque": 22
+}

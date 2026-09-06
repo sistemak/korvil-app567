@@ -1,0 +1,16 @@
+{
+  "id": "prod-0031",
+  "codigo": "KORVIL-0031-DUX",
+  "nome": "DUX NUTRITION Hipercalórico Chocolate Sache 30g",
+  "marca": "DUX NUTRITION",
+  "sabor": "Chocolate",
+  "embalagem": "Sache 30g",
+  "preco": 62,
+  "precoOriginal": 83.7,
+  "setor": "Hipercalórico",
+  "categoria": "hipercalórico",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "DUX NUTRITION - Hipercalórico sabor Chocolate em Sache 30g. Fórmula KORVIL de alta performance.",
+  "estoque": 35
+}

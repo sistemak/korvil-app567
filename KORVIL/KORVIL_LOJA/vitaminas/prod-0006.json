@@ -1,0 +1,16 @@
+{
+  "id": "prod-0006",
+  "codigo": "KORVIL-0006-BLA",
+  "nome": "BLACK SKULL Vitaminas Chocolate Branco Caixa 12 un",
+  "marca": "BLACK SKULL",
+  "sabor": "Chocolate Branco",
+  "embalagem": "Caixa 12 un",
+  "preco": 97.5,
+  "precoOriginal": 131.63,
+  "setor": "Vitaminas",
+  "categoria": "vitaminas",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "BLACK SKULL - Vitaminas sabor Chocolate Branco em Caixa 12 un. Fórmula KORVIL de alta performance.",
+  "estoque": 10
+}

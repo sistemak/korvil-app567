@@ -1,0 +1,16 @@
+{
+  "id": "prod-0030",
+  "codigo": "KORVIL-0030-FTW",
+  "nome": "FTW Pré-Treino Chocolate Intenso Pote 900g",
+  "marca": "FTW",
+  "sabor": "Chocolate Intenso",
+  "embalagem": "Pote 900g",
+  "preco": 269.5,
+  "precoOriginal": 363.83,
+  "setor": "Pré-Treino",
+  "categoria": "pré-treino",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "FTW - Pré-Treino sabor Chocolate Intenso em Pote 900g. Fórmula KORVIL de alta performance.",
+  "estoque": 34
+}

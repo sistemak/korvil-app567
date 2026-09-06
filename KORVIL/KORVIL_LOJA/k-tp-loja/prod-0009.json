@@ -1,0 +1,16 @@
+{
+  "id": "prod-0009",
+  "codigo": "KORVIL-0009-DUX",
+  "nome": "DUX NUTRITION K-TP Loja Avelã Barra 60g",
+  "marca": "DUX NUTRITION",
+  "sabor": "Avelã",
+  "embalagem": "Barra 60g",
+  "preco": 122,
+  "precoOriginal": 164.7,
+  "setor": "K-TP Loja",
+  "categoria": "k-tp-loja",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "DUX NUTRITION - K-TP Loja sabor Avelã em Barra 60g. Fórmula KORVIL de alta performance.",
+  "estoque": 13
+}

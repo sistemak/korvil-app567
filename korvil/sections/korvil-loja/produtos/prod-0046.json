@@ -1,0 +1,16 @@
+{
+  "id": "prod-0046",
+  "codigo": "KORVIL-0046-GRO",
+  "nome": "GROWTH Whey Protein Chocolate Refil 1kg",
+  "marca": "GROWTH",
+  "sabor": "Chocolate",
+  "embalagem": "Refil 1kg",
+  "preco": 167.5,
+  "precoOriginal": 226.13,
+  "setor": "Whey Protein",
+  "categoria": "whey-protein",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "GROWTH - Whey Protein sabor Chocolate em Refil 1kg. Fórmula KORVIL de alta performance.",
+  "estoque": 10
+}

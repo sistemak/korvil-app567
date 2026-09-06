@@ -1,0 +1,16 @@
+{
+  "id": "prod-0028",
+  "codigo": "KORVIL-0028-BLA",
+  "nome": "BLACK SKULL Whey Protein Baunilha com Cookies Pote 300g",
+  "marca": "BLACK SKULL",
+  "sabor": "Baunilha com Cookies",
+  "embalagem": "Pote 300g",
+  "preco": 262.5,
+  "precoOriginal": 354.38,
+  "setor": "Whey Protein",
+  "categoria": "whey-protein",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "BLACK SKULL - Whey Protein sabor Baunilha com Cookies em Pote 300g. Fórmula KORVIL de alta performance.",
+  "estoque": 32
+}

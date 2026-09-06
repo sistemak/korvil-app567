@@ -1,0 +1,16 @@
+{
+  "id": "prod-0017",
+  "codigo": "KORVIL-0017-CHE",
+  "nome": "CHEESE SISTEMA K Loja Morango Pote 900g",
+  "marca": "CHEESE",
+  "sabor": "Morango",
+  "embalagem": "Pote 900g",
+  "preco": 175,
+  "precoOriginal": 236.25,
+  "setor": "SISTEMA K Loja",
+  "categoria": "sistema-k-loja",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "CHEESE - SISTEMA K Loja sabor Morango em Pote 900g. Fórmula KORVIL de alta performance.",
+  "estoque": 21
+}

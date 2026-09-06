@@ -1,0 +1,16 @@
+{
+  "id": "prod-0001",
+  "codigo": "KORVIL-0001-PRO",
+  "nome": "PROFIT Whey Protein Chocolate Pote 150g",
+  "marca": "PROFIT",
+  "sabor": "Chocolate",
+  "embalagem": "Pote 150g",
+  "preco": 55,
+  "precoOriginal": 74.25,
+  "setor": "Whey Protein",
+  "categoria": "whey-protein",
+  "bestSeller": true,
+  "kit": false,
+  "descricao": "PROFIT - Whey Protein sabor Chocolate em Pote 150g. Fórmula KORVIL de alta performance.",
+  "estoque": 5
+}
