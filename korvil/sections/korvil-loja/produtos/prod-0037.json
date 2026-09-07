@@ -1,23 +1,25 @@
 {
   "id": "prod-0037",
   "codigo": "KORVIL-0037-PRO",
-  "nome_completo": "KORVIL-0037-PRO | INTEGRALMÉDICA Produto KORVIL 64GB Caixa 30 caps | INTEGRALMÉDICA | Concentrado",
-  "nome": "INTEGRALMÉDICA Produto KORVIL 64GB Caixa 30 caps",
+  "nome_completo": "Curso Eletricista P Morango Isolado",
+  "base": "Curso Eletricista",
   "marca": "INTEGRALMÉDICA",
-  "setor": "SISTEMA K Loja",
-  "categoria": "Suplementos",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "64GB",
-  "embalagem": "Caixa 30 caps",
-  "variante": "Concentrado",
-  "preco": 92.8,
-  "estoque": 47,
-  "descricao": "Produto oficial KORVIL KORVIL-0037-PRO. INTEGRALMÉDICA Concentrado com sabor 64GB, embalagem Caixa 30 caps. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/INTEGRALMÉDICA/Produto KORVIL/Caixa 30 caps/64GB/Concentrado/KORVIL-0037-PRO.json",
+  "sabor": "Morango",
+  "embalagem": "P",
+  "variante": "Isolado",
+  "categoria": "Moletons",
+  "setor_path": "SISTEMA K Loja/Manutenção de Celular/Bateria/Samsung A50/Turbo",
+  "descricao": "Produto oficial KORVIL LOJA - Curso Eletricista P Morango Isolado. INTEGRALMÉDICA original, Morango, P. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0037-PRO = prod-0037. Path GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Manutenção de Celular/Bateria/Samsung A50/Turbo/KORVIL-0037-PRO.json",
+  "preco": 369.1,
+  "estoque": 31,
+  "vendidos": 87,
+  "avaliacao": 4.7,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0037-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23222222'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0037-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3ECurso%20Eletricista%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0037-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23222222'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0037-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/INTEGRALMÉDICA/Produto KORVIL/Caixa 30 caps/64GB/Concentrado"
+  "ativo": true
 }

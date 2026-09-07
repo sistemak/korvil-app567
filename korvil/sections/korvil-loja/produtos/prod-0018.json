@@ -1,23 +1,25 @@
 {
   "id": "prod-0018",
   "codigo": "KORVIL-0018-PRO",
-  "nome_completo": "KORVIL-0018-PRO | Calça Jogger Produto KORVIL 128GB M | Calça Jogger | Oversized",
-  "nome": "Calça Jogger Produto KORVIL 128GB M",
+  "nome_completo": "Azul Marinho G Melancia Concentrado",
+  "base": "Azul Marinho",
   "marca": "Calça Jogger",
-  "setor": "K-TP Loja",
-  "categoria": "Fitness - Vestuário",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "128GB",
-  "embalagem": "M",
-  "variante": "Oversized",
-  "preco": 60.5,
-  "estoque": 28,
-  "descricao": "Produto oficial KORVIL KORVIL-0018-PRO. Calça Jogger Oversized com sabor 128GB, embalagem M. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/M/128GB/Oversized/KORVIL-0018-PRO.json",
+  "sabor": "Melancia",
+  "embalagem": "G",
+  "variante": "Concentrado",
+  "categoria": "Jaquetas",
+  "setor_path": "K-TP Loja/Fitness - Vestuário/Calças/Calça Legging/Preta/Alta/Suplex/P",
+  "descricao": "Produto oficial KORVIL LOJA - Azul Marinho G Melancia Concentrado. Calça Jogger original, Melancia, G. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0018-PRO = prod-0018. Path GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Calças/Calça Legging/Preta/Alta/Suplex/P/KORVIL-0018-PRO.json",
+  "preco": 230.4,
+  "estoque": 64,
+  "vendidos": 198,
+  "avaliacao": 4.4,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0018-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230f0f0f'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0018-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3EAzul%20Marinho%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0018-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230f0f0f'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0018-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "K-TP Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/M/128GB/Oversized"
+  "ativo": true
 }

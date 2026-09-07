@@ -1,23 +1,25 @@
 {
   "id": "prod-0031",
   "codigo": "KORVIL-0031-PRO",
-  "nome_completo": "KORVIL-0031-PRO | Curso Cabeleireiro Produto KORVIL M GG | Curso Cabeleireiro | Original",
-  "nome": "Curso Cabeleireiro Produto KORVIL M GG",
+  "nome_completo": "Bateria A20 Refil 1.8kg Peluciado Isolado",
+  "base": "Bateria A20",
   "marca": "Curso Cabeleireiro",
-  "setor": "SISTEMA K Loja",
-  "categoria": "Suplementos",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "M",
-  "embalagem": "GG",
-  "variante": "Original",
-  "preco": 82.6,
-  "estoque": 41,
-  "descricao": "Produto oficial KORVIL KORVIL-0031-PRO. Curso Cabeleireiro Original com sabor M, embalagem GG. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/Curso Cabeleireiro/Produto KORVIL/GG/M/Original/KORVIL-0031-PRO.json",
+  "sabor": "Peluciado",
+  "embalagem": "Refil 1.8kg",
+  "variante": "Isolado",
+  "categoria": "Barrinha Proteica",
+  "setor_path": "SISTEMA K Loja/Manutenção de Celular/Bateria/Samsung A50/Turbo",
+  "descricao": "Produto oficial KORVIL LOJA - Bateria A20 Refil 1.8kg Peluciado Isolado. Curso Cabeleireiro original, Peluciado, Refil 1.8kg. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0031-PRO = prod-0031. Path GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Manutenção de Celular/Bateria/Samsung A50/Turbo/KORVIL-0031-PRO.json",
+  "preco": 325.3,
+  "estoque": 13,
+  "vendidos": 21,
+  "avaliacao": 4.9,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0031-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%231a1a1a'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0031-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3EBateria%20A20%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0031-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%231a1a1a'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0031-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/Curso Cabeleireiro/Produto KORVIL/GG/M/Original"
+  "ativo": true
 }

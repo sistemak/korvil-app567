@@ -1,23 +1,25 @@
 {
   "id": "prod-0021",
   "codigo": "KORVIL-0021-PRO",
-  "nome_completo": "KORVIL-0021-PRO | Top Sutiã Produto KORVIL Chocolate Tela 6.1\" | Top Sutiã | Hidrolisado",
-  "nome": "Top Sutiã Produto KORVIL Chocolate Tela 6.1\"",
+  "nome_completo": "Camiseta Dry Fit Preta Unidade Masculina Concentrado",
+  "base": "Camiseta Dry Fit Preta",
   "marca": "Top Sutiã",
-  "setor": "K-TP Loja",
-  "categoria": "Suplementos",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "Chocolate",
-  "embalagem": "Tela 6.1\"",
-  "variante": "Hidrolisado",
-  "preco": 65.6,
-  "estoque": 31,
-  "descricao": "Produto oficial KORVIL KORVIL-0021-PRO. Top Sutiã Hidrolisado com sabor Chocolate, embalagem Tela 6.1\". Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/Top Sutiã/Produto KORVIL/Tela 6.1\"/Chocolate/Hidrolisado/KORVIL-0021-PRO.json",
+  "sabor": "Masculina",
+  "embalagem": "Unidade",
+  "variante": "Concentrado",
+  "categoria": "Bateria",
+  "setor_path": "K-TP Loja/Fitness - Vestuário/Camisetas/Camiseta Dry Fit/Preta/Masculina/Lisa/M",
+  "descricao": "Produto oficial KORVIL LOJA - Camiseta Dry Fit Preta Unidade Masculina Concentrado. Top Sutiã original, Masculina, Unidade. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0021-PRO = prod-0021. Path GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Camisetas/Camiseta Dry Fit/Preta/Masculina/Lisa/M/KORVIL-0021-PRO.json",
+  "preco": 252.3,
+  "estoque": 73,
+  "vendidos": 231,
+  "avaliacao": 4.7,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0021-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%231a1a1a'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0021-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3ECamiseta%20Dry%20Fit%20P%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0021-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%231a1a1a'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0021-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/Top Sutiã/Produto KORVIL/Tela 6.1\"/Chocolate/Hidrolisado"
+  "ativo": true
 }

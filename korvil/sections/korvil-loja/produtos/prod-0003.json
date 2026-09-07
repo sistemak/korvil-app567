@@ -1,23 +1,25 @@
 {
   "id": "prod-0003",
   "codigo": "KORVIL-0003-PRO",
-  "nome_completo": "KORVIL-0003-PRO | MAX TITANIUM Produto KORVIL Baunilha Garrafa 500ml | MAX TITANIUM | Hidrolisado",
-  "nome": "MAX TITANIUM Produto KORVIL Baunilha Garrafa 500ml",
+  "nome_completo": "Whey Protein Max Titanium Pote 900g Chocolate Concentrado",
+  "base": "100% Whey Max Titanium",
   "marca": "MAX TITANIUM",
-  "setor": "K-TP Loja",
-  "categoria": "Suplementos",
-  "produto_cor": "Produto KORVIL",
   "sabor": "Baunilha",
-  "embalagem": "Garrafa 500ml",
-  "variante": "Hidrolisado",
-  "preco": 35,
-  "estoque": 13,
-  "descricao": "Produto oficial KORVIL KORVIL-0003-PRO. MAX TITANIUM Hidrolisado com sabor Baunilha, embalagem Garrafa 500ml. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/MAX TITANIUM/Produto KORVIL/Garrafa 500ml/Baunilha/Hidrolisado/KORVIL-0003-PRO.json",
+  "embalagem": "Pote 300g",
+  "variante": "Concentrado",
+  "categoria": "Pré-treino",
+  "setor_path": "K-TP Loja/Fitness - Produtos/Suplementos/MAX TITANIUM/100% Whey Max Titanium/Pote 900g/Chocolate/Concentrado",
+  "descricao": "Produto oficial KORVIL LOJA - 100% Whey Max Titanium Pote 300g Baunilha Concentrado. MAX TITANIUM original, Baunilha, Pote 300g. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0003-PRO = prod-0003. Path GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/MAX TITANIUM/100% Whey Max Titanium/Pote 300g/Baunilha/Concentrado/KORVIL-0003-PRO.json",
+  "preco": 120.9,
+  "estoque": 19,
+  "vendidos": 33,
+  "avaliacao": 4.5,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0003-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230f0f0f'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0003-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3E100%25%20Whey%20Max%20Tita%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0003-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230f0f0f'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0003-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/MAX TITANIUM/Produto KORVIL/Garrafa 500ml/Baunilha/Hidrolisado"
+  "ativo": true
 }

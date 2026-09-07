@@ -1,23 +1,25 @@
 {
   "id": "prod-0033",
   "codigo": "KORVIL-0033-PRO",
-  "nome_completo": "KORVIL-0033-PRO | PROFIT Produto KORVIL GG Bateria 4000mAh | PROFIT | Pro",
-  "nome": "PROFIT Produto KORVIL GG Bateria 4000mAh",
+  "nome_completo": "Bateria A50 Turbo Sache 30g Canelado Concentrado",
+  "base": "Bateria A50 Turbo",
   "marca": "PROFIT",
-  "setor": "K-TP Loja",
-  "categoria": "Suplementos",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "GG",
-  "embalagem": "Bateria 4000mAh",
-  "variante": "Pro",
-  "preco": 86,
-  "estoque": 43,
-  "descricao": "Produto oficial KORVIL KORVIL-0033-PRO. PROFIT Pro com sabor GG, embalagem Bateria 4000mAh. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/PROFIT/Produto KORVIL/Bateria 4000mAh/GG/Pro/KORVIL-0033-PRO.json",
+  "sabor": "Canelado",
+  "embalagem": "Sache 30g",
+  "variante": "Concentrado",
+  "categoria": "Termogênico",
+  "setor_path": "SISTEMA K Loja/Manutenção de Celular/Bateria/Samsung A50/Turbo",
+  "descricao": "Produto oficial KORVIL LOJA - Bateria A50 Turbo Sache 30g Canelado Concentrado. PROFIT original, Canelado, Sache 30g. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0033-PRO = prod-0033. Path GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Manutenção de Celular/Bateria/Samsung A50/Turbo/KORVIL-0033-PRO.json",
+  "preco": 339.9,
+  "estoque": 19,
+  "vendidos": 43,
+  "avaliacao": 4.3,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0033-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230f0f0f'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0033-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3EBateria%20A50%20Turbo%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0033-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230f0f0f'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0033-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/PROFIT/Produto KORVIL/Bateria 4000mAh/GG/Pro"
+  "ativo": true
 }

@@ -1,23 +1,25 @@
 {
   "id": "prod-0050",
   "codigo": "KORVIL-0050-PRO",
-  "nome_completo": "KORVIL-0050-PRO | Calça Jogger Produto KORVIL P P | Calça Jogger | Premium",
-  "nome": "Calça Jogger Produto KORVIL P P",
+  "nome_completo": "Creatina Integralmedica Pote 600g Frutas Vermelhas Blend",
+  "base": "Creatina Integralmedica",
   "marca": "Calça Jogger",
-  "setor": "K-ALMA Loja",
-  "categoria": "Fitness - Vestuário",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "P",
-  "embalagem": "P",
-  "variante": "Premium",
-  "preco": 114.9,
-  "estoque": 60,
-  "descricao": "Produto oficial KORVIL KORVIL-0050-PRO. Calça Jogger Premium com sabor P, embalagem P. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/P/P/Premium/KORVIL-0050-PRO.json",
+  "sabor": "Frutas Vermelhas",
+  "embalagem": "Pote 600g",
+  "variante": "Blend",
+  "categoria": "Creatina",
+  "setor_path": "CENTRAL KORVIL Loja/DESENVOLVIMENTO HUMANO - Cursos",
+  "descricao": "Produto oficial KORVIL LOJA - Creatina Integralmedica Pote 600g Frutas Vermelhas Blend. Calça Jogger original, Frutas Vermelhas, Pote 600g. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0050-PRO = prod-0050. Path GitHub: korvil/sections/korvil-loja/CENTRAL KORVIL Loja/DESENVOLVIMENTO HUMANO - Cursos/KORVIL-0050-PRO.json",
+  "preco": 464,
+  "estoque": 70,
+  "vendidos": 230,
+  "avaliacao": 4.4,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0050-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23FF4D00'%2F%3E%3Cg%20fill%3D'%23000000'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23000000'%20opacity%3D'0.9'%3EKORVIL-0050-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23000000'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3ECreatina%20Integralm%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0050-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23FF4D00'%2F%3E%3Cg%20fill%3D'%23000000'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23000000'%20opacity%3D'0.9'%3EKORVIL-0050-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23000000'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "K-ALMA Loja/Fitness - Vestuário/Calça Jogger/Produto KORVIL/P/P/Premium"
+  "ativo": true
 }

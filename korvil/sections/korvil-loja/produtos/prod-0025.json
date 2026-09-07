@@ -1,23 +1,25 @@
 {
   "id": "prod-0025",
   "codigo": "KORVIL-0025-PRO",
-  "nome_completo": "KORVIL-0025-PRO | Bateria Samsung Produto KORVIL Cookies Garrafa 500ml | Bateria Samsung | Dry Fit",
-  "nome": "Bateria Samsung Produto KORVIL Cookies Garrafa 500ml",
+  "nome_completo": "Top Sutiã Preto Pote 500g Estampada Isolado",
+  "base": "Top Sutiã Preto",
   "marca": "Bateria Samsung",
-  "setor": "SISTEMA K Loja",
-  "categoria": "Manutenção de Celular",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "Cookies",
-  "embalagem": "Garrafa 500ml",
-  "variante": "Dry Fit",
-  "preco": 72.4,
-  "estoque": 35,
-  "descricao": "Produto oficial KORVIL KORVIL-0025-PRO. Bateria Samsung Dry Fit com sabor Cookies, embalagem Garrafa 500ml. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Manutenção de Celular/Bateria Samsung/Produto KORVIL/Garrafa 500ml/Cookies/Dry Fit/KORVIL-0025-PRO.json",
+  "sabor": "Estampada",
+  "embalagem": "Pote 500g",
+  "variante": "Isolado",
+  "categoria": "Whey Protein",
+  "setor_path": "K-TP Loja/Fitness - Vestuário/Calças/Calça Legging/Preta/Alta/Suplex/P",
+  "descricao": "Produto oficial KORVIL LOJA - Top Sutiã Preto Pote 500g Estampada Isolado. Bateria Samsung original, Estampada, Pote 500g. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0025-PRO = prod-0025. Path GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Calças/Calça Legging/Preta/Alta/Suplex/P/KORVIL-0025-PRO.json",
+  "preco": 281.5,
+  "estoque": 85,
+  "vendidos": 275,
+  "avaliacao": 4.3,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0025-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23FF4D00'%2F%3E%3Cg%20fill%3D'%23000000'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23000000'%20opacity%3D'0.9'%3EKORVIL-0025-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23000000'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3ETop%20Suti%C3%A3%20Preto%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0025-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23FF4D00'%2F%3E%3Cg%20fill%3D'%23000000'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23000000'%20opacity%3D'0.9'%3EKORVIL-0025-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23000000'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "SISTEMA K Loja/Manutenção de Celular/Bateria Samsung/Produto KORVIL/Garrafa 500ml/Cookies/Dry Fit"
+  "ativo": true
 }

@@ -1,23 +1,25 @@
 {
   "id": "prod-0046",
   "codigo": "KORVIL-0046-PRO",
-  "nome_completo": "KORVIL-0046-PRO | Baby Look Produto KORVIL Preto Saco 1kg | Baby Look | Concentrado",
-  "nome": "Baby Look Produto KORVIL Preto Saco 1kg",
+  "nome_completo": "Creatina Profit Pote 500g Chocolate Branco Isolado",
+  "base": "Creatina Profit",
   "marca": "Baby Look",
-  "setor": "SISTEMA K Loja",
-  "categoria": "Suplementos",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "Preto",
-  "embalagem": "Saco 1kg",
-  "variante": "Concentrado",
-  "preco": 108.1,
-  "estoque": 56,
-  "descricao": "Produto oficial KORVIL KORVIL-0046-PRO. Baby Look Concentrado com sabor Preto, embalagem Saco 1kg. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/SISTEMA K Loja/Fitness - Produtos/Suplementos/Baby Look/Produto KORVIL/Saco 1kg/Preto/Concentrado/KORVIL-0046-PRO.json",
+  "sabor": "Chocolate Branco",
+  "embalagem": "Pote 500g",
+  "variante": "Isolado",
+  "categoria": "E-books",
+  "setor_path": "K-ALMA Loja/Cabeleireiro Unissex",
+  "descricao": "Produto oficial KORVIL LOJA - Creatina Profit Pote 500g Chocolate Branco Isolado. Baby Look original, Chocolate Branco, Pote 500g. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0046-PRO = prod-0046. Path GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Cabeleireiro Unissex/KORVIL-0046-PRO.json",
+  "preco": 434.8,
+  "estoque": 58,
+  "vendidos": 186,
+  "avaliacao": 4.8,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0046-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%231a1a1a'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0046-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3ECreatina%20Profit%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0046-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%231a1a1a'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0046-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "SISTEMA K Loja/Fitness - Produtos/Suplementos/Baby Look/Produto KORVIL/Saco 1kg/Preto/Concentrado"
+  "ativo": true
 }

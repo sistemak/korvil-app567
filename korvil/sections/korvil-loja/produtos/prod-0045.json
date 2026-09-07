@@ -1,23 +1,25 @@
 {
   "id": "prod-0045",
   "codigo": "KORVIL-0045-PRO",
-  "nome_completo": "KORVIL-0045-PRO | Camiseta Oversized Camiseta Performance Cookies Pote 900g | Camiseta Oversized | Oversized",
-  "nome": "Camiseta Oversized Camiseta Performance Cookies Pote 900g",
+  "nome_completo": "Top Whey 3W Max Titanium Pote 300g Avelã Concentrado",
+  "base": "Top Whey 3W Max Titanium",
   "marca": "Camiseta Oversized",
-  "setor": "K-TP Loja",
-  "categoria": "Fitness - Vestuário",
-  "produto_cor": "Camiseta Performance",
-  "sabor": "Cookies",
-  "embalagem": "Pote 900g",
-  "variante": "Oversized",
-  "preco": 106.4,
+  "sabor": "Avelã",
+  "embalagem": "Pote 300g",
+  "variante": "Concentrado",
+  "categoria": "Bateria",
+  "setor_path": "K-ALMA Loja/Cabeleireiro Unissex",
+  "descricao": "Produto oficial KORVIL LOJA - Top Whey 3W Max Titanium Pote 300g Avelã Concentrado. Camiseta Oversized original, Avelã, Pote 300g. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0045-PRO = prod-0045. Path GitHub: korvil/sections/korvil-loja/K-ALMA Loja/Cabeleireiro Unissex/KORVIL-0045-PRO.json",
+  "preco": 427.5,
   "estoque": 55,
-  "descricao": "Produto oficial KORVIL KORVIL-0045-PRO. Camiseta Oversized Oversized com sabor Cookies, embalagem Pote 900g. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Vestuário/Camiseta Oversized/Camiseta Performance/Pote 900g/Cookies/Oversized/KORVIL-0045-PRO.json",
+  "vendidos": 175,
+  "avaliacao": 4.7,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0045-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23FF4D00'%2F%3E%3Cg%20fill%3D'%23000000'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23000000'%20opacity%3D'0.9'%3EKORVIL-0045-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23000000'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3ETop%20Whey%203W%20Max%20Ti%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0045-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23FF4D00'%2F%3E%3Cg%20fill%3D'%23000000'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23000000'%20opacity%3D'0.9'%3EKORVIL-0045-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23000000'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "K-TP Loja/Fitness - Vestuário/Camiseta Oversized/Camiseta Performance/Pote 900g/Cookies/Oversized"
+  "ativo": true
 }

@@ -1,23 +1,25 @@
 {
   "id": "prod-0039",
   "codigo": "KORVIL-0039-PRO",
-  "nome_completo": "KORVIL-0039-PRO | BLACK SKULL Produto KORVIL PDF P | BLACK SKULL | Hidrolisado",
-  "nome": "BLACK SKULL Produto KORVIL PDF P",
+  "nome_completo": "Projeto TRANSFORMAÇÃO G Cookies & Cream Concentrado",
+  "base": "Projeto TRANSFORMAÇÃO",
   "marca": "BLACK SKULL",
-  "setor": "K-TP Loja",
-  "categoria": "Suplementos",
-  "produto_cor": "Produto KORVIL",
-  "sabor": "PDF",
-  "embalagem": "P",
-  "variante": "Hidrolisado",
-  "preco": 96.2,
-  "estoque": 49,
-  "descricao": "Produto oficial KORVIL KORVIL-0039-PRO. BLACK SKULL Hidrolisado com sabor PDF, embalagem P. Alta qualidade, entrega em todo Brasil. Código único para rastreio no GitHub: korvil/sections/korvil-loja/K-TP Loja/Fitness - Produtos/Suplementos/BLACK SKULL/Produto KORVIL/P/PDF/Hidrolisado/KORVIL-0039-PRO.json",
+  "sabor": "Cookies & Cream",
+  "embalagem": "G",
+  "variante": "Concentrado",
+  "categoria": "Tops",
+  "setor_path": "K-AFORTUNADO Loja/E-books",
+  "descricao": "Produto oficial KORVIL LOJA - Projeto TRANSFORMAÇÃO G Cookies & Cream Concentrado. BLACK SKULL original, Cookies & Cream, G. Qualidade garantida, estoque no Brasil. Código oficial KORVIL-0039-PRO = prod-0039. Path GitHub: korvil/sections/korvil-loja/K-AFORTUNADO Loja/E-books/KORVIL-0039-PRO.json",
+  "preco": 383.7,
+  "estoque": 37,
+  "vendidos": 109,
+  "avaliacao": 4.9,
   "imagens": [
-    "https://picsum.photos/seed/KORVIL-0039-PRO/400/400"
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23161616'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0039-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%230a0a0a'%2F%3E%3Cg%20fill%3D'%23888888'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23888888'%20opacity%3D'0.9'%3EProjeto%20TRANSFORMA%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23888888'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E"
   ],
-  "imagem_principal": "https://picsum.photos/seed/KORVIL-0039-PRO/400/400",
+  "imagem_principal": "data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'400'%20viewBox%3D'0%200%20600%20400'%3E%3Crect%20width%3D'600'%20height%3D'400'%20fill%3D'%23161616'%2F%3E%3Cg%20fill%3D'%23FF4D00'%20font-family%3D'JetBrains%20Mono%2C%20monospace'%20font-weight%3D'700'%3E%3Ctext%20x%3D'50%25'%20y%3D'48%25'%20text-anchor%3D'middle'%20font-size%3D'22'%20fill%3D'%23FF4D00'%20opacity%3D'0.9'%3EKORVIL-0039-PRO%3C%2Ftext%3E%3Ctext%20x%3D'50%25'%20y%3D'58%25'%20text-anchor%3D'middle'%20font-size%3D'12'%20fill%3D'%23FF4D00'%20opacity%3D'0.6'%3EKORVIL%20LOJA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E",
   "videos": [],
   "disponivel": true,
-  "fullPath": "K-TP Loja/Fitness - Produtos/Suplementos/BLACK SKULL/Produto KORVIL/P/PDF/Hidrolisado"
+  "ativo": true
 }
