@@ -1,0 +1,49 @@
+// SALVA PENDENTE NO GITHUB VIA ISSUE? No GitHub Pages puro salva local e cria arquivo pendente via API GitHub
+async function salvarPendenteNoGithub(pixId, txid, total, banco) {
+  // Salva local
+  localStorage.setItem('korvil_pending_pix', JSON.stringify({pixId, txid, valor: total, banco, criadoEm: Date.now()}));
+  
+  // Tenta criar arquivo pendentes/KORVIL-XXXX.json no repo via GitHub API (precisa PAT ou manual)
+  // Por enquanto salva em localStorage, a Action vai buscar no Asaas direto pelo externalReference
+  console.log('Pendente salvo local:', pixId);
+}
+
+function startPollingReal() {
+  const rawUrl = `https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/pagamentos/${pixId}.json?t=${Date.now()}`;
+  
+  document.getElementById('checkoutStatus').innerHTML = `⏳ Aguardando pagar R$ no ${bancoEscolhido.name}...<br>ID ${pixId} - Quando pagar no banco e dinheiro cair na conta Asaas korvil.p@gmail.com, GitHub Actions vai criar arquivo de confirmado em até 2 minutos e volta automático pra loja. Link válido 1h.`;
+
+  if (pollingInterval) clearInterval(pollingInterval);
+  
+  pollingInterval = setInterval(async () => {
+    try {
+      const resp = await fetch(rawUrl, {cache: 'no-store'});
+      if (resp.ok) {
+        const dados = await resp.json();
+        if (dados.pago === true) {
+          clearInterval(pollingInterval);
+          finalizarRealConfirmado();
+        }
+      } else {
+        // Verifica se expirou 1h
+        const pend = JSON.parse(localStorage.getItem('korvil_pending_pix')||'{}');
+        if (pend.criadoEm && Date.now() - pend.criadoEm > 3600000) {
+          clearInterval(pollingInterval);
+          document.getElementById('checkoutStatus').innerHTML = `❌ PIX ${pixId} expirou após 1h. Gere novo PIX.`;
+          localStorage.removeItem('korvil_pending_pix');
+        }
+      }
+    } catch(e) {}
+  }, 10000); // verifica a cada 10s
+}
+
+function finalizarRealConfirmado() {
+  // Mesmo código que você já tem - mostra banner verde confirmado
+  document.getElementById('checkout').classList.add('hidden');
+  document.getElementById('pendingBanner').classList.add('hidden');
+  document.getElementById('confirmedBanner').classList.remove('hidden');
+  document.getElementById('confirmedPixId').textContent = pixId;
+  showFloatingIcon('confirmado');
+  toast('✅ Dinheiro caiu na conta Asaas korvil.p@gmail.com - Pagamento confirmado real!');
+  localStorage.removeItem('korvil_pending_pix');
+}
