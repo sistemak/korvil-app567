@@ -1,1 +1,105 @@
-j
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KORVIL LOJA - PIX Real</title>
+<script>
+  // CONFIG REAL - SEU REPO
+  const GITHUB_REPO = "sistemak/korvil-app";
+  const GITHUB_BRANCH = "main";
+  const RAW_PAGAMENTOS_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/pagamentos`;
+  const ASAAS_CONTA = "korvil.p@gmail.com"; // conta que recebe dinheiro de verdade
+
+  // Essa função agora verifica se dinheiro caiu DE VERDADE na conta korvil.p@gmail.com
+  async function verificarPagamentoRealNoGithub(pixId) {
+    try {
+      const url = `${RAW_PAGAMENTOS_URL}/${pixId}.json?t=${Date.now()}`;
+      const resp = await fetch(url, {cache: 'no-store'});
+      if (!resp.ok) return {pago: false};
+      const dados = await resp.json();
+      // dados.pago só existe quando .github/scripts/verifica-asaas.js confirmou RECEIVED/CONFIRMED na Asaas
+      return dados;
+    } catch(e) {
+      return {pago: false};
+    }
+  }
+</script>
+</head>
+<body>
+<!-- COLE AQUI TODO O SEU CODIGO ANTIGO DA LOJA DENTRO DESTA DIV #root -->
+<div id="root"></div>
+
+<!-- SEU SCRIPT ANTIGO DA LOJA CONTINUA IGUAL, SÓ ADICIONEI O POLLING REAL ABAIXO -->
+<script type="module">
+// SEU CODIGO MINIFICADO DA LOJA COMEÇA AQUI - MANTIVE IGUAL
+// ... (cole seu script original aqui)
+
+// PATCH REAL - SUBSTITUI O startPolling FALSO POR REAL
+// Onde você tinha:
+let pollingRealInterval = null;
+let pixIdAtual = null;
+
+window.startPollingRealCorrigido = function(pixId, bancoNome, valorTotal) {
+  pixIdAtual = pixId;
+  const statusEl = document.getElementById('checkoutStatus');
+  if (statusEl) {
+    statusEl.innerHTML = `⏳ Aguardando pagamento de R$ ${valorTotal.toFixed(2)} no ${bancoNome}...<br>
+    ID ${pixId} - Quando você pagar no banco e o dinheiro cair na conta Asaas ${ASAAS_CONTA}, 
+    o GitHub Actions vai detectar em até 2 minutos (status RECEIVED) e criar pagamentos/${pixId}.json<br>
+    Link válido 1h. Verificando em ${RAW_PAGAMENTOS_URL}/${pixId}.json`;
+  }
+
+  if (pollingRealInterval) clearInterval(pollingRealInterval);
+
+  pollingRealInterval = setInterval(async () => {
+    const resultado = await verificarPagamentoRealNoGithub(pixId);
+    
+    if (resultado.pago === true) {
+      clearInterval(pollingRealInterval);
+      console.log("✅ DINHEIRO CAIU DE VERDADE NA CONTA korvil.p@gmail.com", resultado);
+      
+      // Agora sim cria pedido e mostra confirmado
+      // Chama sua função original de finalizar
+      if (window.finalizarRealConfirmado) window.finalizarRealConfirmado(pixId, resultado);
+      else {
+        document.getElementById('checkout')?.classList.add('hidden');
+        document.getElementById('confirmedBanner')?.classList.remove('hidden');
+        alert(`✅ PAGAMENTO CONFIRMADO REAL - Dinheiro caiu na conta ${ASAAS_CONTA} - Asaas ID ${resultado.asaasId}`);
+      }
+      
+      // Limpa pendente
+      localStorage.removeItem('korvil_pending_pix');
+    } else {
+      // Verifica expiração 1h
+      const pend = JSON.parse(localStorage.getItem('korvil_pending_pix')||'{}');
+      if (pend.criadoEm && Date.now() - pend.criadoEm > 3600000) {
+        clearInterval(pollingRealInterval);
+        if (statusEl) statusEl.innerHTML = `❌ PIX ${pixId} expirou após 1h. Gere novo PIX.`;
+        localStorage.removeItem('korvil_pending_pix');
+      } else {
+        console.log(`Ainda não caiu na conta ${ASAAS_CONTA} - verificando... ${pixId}`);
+      }
+    }
+  }, 10000); // verifica a cada 10s no raw.githubusercontent
+}
+</script>
+
+<script>
+// INSTRUÇÕES FINAIS PRA VOCÊ:
+// 1. Esse arquivo index.html vai em: sistemak/korvil-app/korvil/sections/korvil-loja/index.html
+// 2. Na raiz do repo sistemak/korvil-app crie:
+//    .github/workflows/verifica-pagamentos.yml
+//    .github/scripts/verifica-asaas.js
+//    pagamentos/.gitkeep
+//    pendentes/.gitkeep
+// 3. No GitHub > Settings > Secrets > Actions > New secret: ASAAS_API_KEY = sua chave $aact_prod_... da conta korvil.p@gmail.com
+// 4. Quando cliente gerar PIX, o frontend salva txid KORVIL-XXXX e fica polling em:
+//    https://raw.githubusercontent.com/sistemak/korvil-app/main/pagamentos/KORVIL-XXXX.json
+// 5. A Action roda a cada 2 minutos, chama https://api.asaas.com/v3/payments?externalReference=KORVIL-XXXX
+//    Se status for RECEIVED ou CONFIRMED = dinheiro caiu de verdade na conta korvil.p@gmail.com
+//    Então ela cria pagamentos/KORVIL-XXXX.json com {"pago": true, asaasId, valor}
+// 6. Seu polling detecta e só aí mostra "Confirmado"
+</script>
+</body>
+</html>
