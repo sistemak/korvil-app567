@@ -1,12 +1,13 @@
-name: Verifica Pagamentos Asaas Real
+name: Verifica Pagamento Real Asaas - korvil.p@gmail.com
 
 on:
   schedule:
-    - cron: '*/2 * * * *' # roda a cada 2 minutos
-  workflow_dispatch: # permite rodar manual
+    - cron: '*/2 * * * *'
+  workflow_dispatch:
   push:
     paths:
       - 'pendentes/**'
+      - 'korvil/sections/korvil-loja/**'
 
 jobs:
   verificar:
@@ -20,15 +21,15 @@ jobs:
         with:
           node-version: '20'
       
-      - name: Verifica Asaas se dinheiro caiu
+      - name: Verifica se dinheiro caiu na conta korvil.p@gmail.com
         env:
           ASAAS_API_KEY: ${{ secrets.ASAAS_API_KEY }}
         run: node .github/scripts/verifica-asaas.js
       
-      - name: Salva status pago no repo
+      - name: Commita arquivo de pago real
         run: |
           git config user.name "korvil-bot"
           git config user.email "bot@korvil.com"
           git add pagamentos/ pendentes/
-          git diff --staged --quiet || git commit -m "Atualiza status pagamento Asaas real - $(date)"
+          git diff --staged --quiet || git commit -m "✅ PIX confirmado real - dinheiro caiu em korvil.p@gmail.com - $(date -u)"
           git push
